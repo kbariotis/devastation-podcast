@@ -1,4 +1,147 @@
----
-layout: home
-title: Bawn92
----
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Devastation Podcast - Το Podcast για Developers</title>
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+  <script src="/assets/js/audiojs/audio.min.js"></script>
+</head>
+<body>
+
+<div id="container1" class="arrow"></div>
+<a href="/"><div id="container" class="logo"></div></a>
+<header id="home">
+  <nav>
+    <a href="/#about-me">Σχετικα</a>
+    <a href="/#Blog">Επισοδεια</a>
+    <a href="/#Details">Επικοινωνια</a>
+  </nav>
+  <h1>
+    <span>DEVASTATION<br/>PODCAST</span>
+  </h1>
+  <p class="kicker">Το Podcast για developers που θα σου φτιαξει το κεφι</p>
+</header>
+
+<section>
+  <h2 id="about-me">
+    <i class="icon icon-user"></i>
+    Σχετικα
+  </h2>
+  <hr class="bar"/>
+  <div class="avatar-container">
+    <img src="/assets/img/kostasbariotis.jpg" alt="Kostas Bariotis" class="avatar">
+  </div>
+  <div class="blurb">
+    <p>Είμαι ο Κώστας Μπαριώτης και αυτό είναι το DEVastation Podcast. Δημιουργήθηκε με σκοπό να
+      μάθω περισσότερα πράγματα απο ανθρώπους που θέλουν να μοιραστούν την γνώση και τις εμπειρίες τους μαζί μου κι
+      εγώ με την σείρα μου να τις μοιραστώ μαζί σας. Κάθε επισόδιο θα περιλαμβάνει έναν καλεσμένο και μια συζήτηση
+      μαζί μου για κάποια θεματική ενότητα.</p>
+  </div>
+  <div class="skill-lock"></div>
+</section>
+
+<div class="posts">
+
+  <h2 id="Blog"><i class="icon icon-podcast"></i> Επισοδια </h2>
+  <hr class="bar"/>
+  
+
+  <div class="post-header title">
+    <a href="/blog/2016/02/25/Blog-entry-one.html"><h1 class="post-title">Επ. 1 - Θανάσης Πολυχρονάκης</h1></a>
+  </div>
+  <div class="post-header date">
+    <p class="post-meta">February 25, 2016 — 18:51</p>
+  </div>
+
+  
+</div>
+
+
+<section class="section-contact">
+  <h2 id="Details">
+    <i class="icon icon-share2"></i>
+    Επικοινωνια
+  </h2>
+  <hr class="bar"/>
+  <div class="social-links">
+    <a href="https://www.facebook.com/kostas.kostarelo">
+      <div class="icon icon-facebook"></div>
+    </a>
+    <a href="https://twitter.com/kbariotis">
+      <div class="icon icon-twitter"></div>
+    </a>
+    <a href="https://gr.linkedin.com/in/kostas-bariotis-2a8b7481">
+      <div class="icon icon-linkedin2"></div>
+    </a>
+    <a href="mailto:konmpar@gmail.com">
+      <div class="icon icon-mail2"></div>
+    </a>
+  </div>
+</section>
+
+<section class="contact-form">
+  <h2 id="Contact">
+    <i class="icon icon-mail4"></i>
+    Επικοινωνια
+  </h2>
+  <hr class="bar"/>
+  <form method="post" action="//formspree.io/example@gmail.com">
+    <div class="contact-info-group">
+      <label><span>Το ονομα σου</span><input type="text" name="name"/></label>
+      <label><span>Το Email σου</span><input type="email" name="_replyto"/></label>
+    </div>
+    <label>
+      <span>Μηνυμα</span>
+      <textarea name="Message"></textarea>
+
+      <div class="submit-wrap"><input type="submit" value="Αποστολη"/></div>
+    </label>
+  </form>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="menu">
+      <nav>
+        <a href="/#about-me">Σχετικα</a>
+        <a href="/#Blog">Επισοδεια</a>
+        <a href="/#Details">Επικοινωνια</a>
+      </nav>
+    </div>
+    <div class="copyright">
+      Devastation Podcast &copy; 2015 / Thank you modd for the logo.
+    </div>
+  </div>
+</footer>
+
+<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="/assets/js/functions.js"></script>
+<script src="/assets/js/main.js"></script>
+<script src="/assets/js/modernizr.js"></script>
+<script>
+  audiojs.events.ready(function () {
+    var as = audiojs.createAll();
+  });
+</script>
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+  ga('create', 'UA-70467029-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
