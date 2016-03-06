@@ -1,13 +1,12 @@
 @import "../../node_modules/bourbon/app/assets/stylesheets/bourbon";
 @import "../../node_modules/bourbon-neat/app/assets/stylesheets/neat";
-@import "../../node_modules/normalize/normalize.css";
+@import "../../node_modules/normalizecss/normalize";
 @import "0-tools/fonts";
 @import "0-tools/icons";
 @import "1-base/vars";
 @import "1-base/base";
 @import "1-base/layout";
 @import "1-base/mixins";
-@import "1-base/placeholders";
 @import "3-sections/header";
 @import "3-sections/footer";
 @import "3-sections/about";
