@@ -1,9 +1,8 @@
-@import "0-tools/bourbon/bourbon";
-@import "0-tools/neat/neat";
-@import "0-tools/normalize";
+@import "../../node_modules/bourbon/app/assets/stylesheets/bourbon";
+@import "../../node_modules/bourbon-neat/app/assets/stylesheets/neat";
+@import "../../node_modules/normalize/normalize.css";
 @import "0-tools/fonts";
 @import "0-tools/icons";
-@import "0-tools/flaticon";
 @import "1-base/vars";
 @import "1-base/base";
 @import "1-base/layout";
