@@ -2000,6 +2000,9 @@ section h2 {
   height: 0px;
   margin: 0px auto 40px;
   border-top: 2px solid #303e49; }
+  @media only screen and (min-width: 220px) {
+    .bar {
+      width: 200px; } }
 
 @media sceen and (max-width: 480px) {
   h2 {
@@ -2065,12 +2068,9 @@ header {
     header nav a {
       margin-left: 20px;
       color: white; }
-      @media only screen and (min-width: 220px) {
-        header nav a {
-          display: none; } }
       @media only screen and (min-width: 650px) {
         header nav a {
-          display: inline-block; } }
+          float: none; } }
   header h1 {
     text-align: center;
     color: #8ab2ff;
@@ -2676,7 +2676,6 @@ form {
 @media only screen and (min-width: 220px) {
   .post-header {
     text-align: center;
-    max-width: 270px;
     display: -webkit-box;
     display: -moz-box;
     display: box;
@@ -2716,7 +2715,7 @@ form {
     display: block;
     font-size: 40px; }
   .post-wrapper {
-    max-width: 270px;
+    max-width: 90%;
     margin: 0 auto;
     font-size: 22px; }
   .honeycombpic {
