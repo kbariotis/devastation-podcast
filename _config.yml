@@ -1,5 +1,6 @@
 name: Devastation Podcast
 title: Devastation Podcast - Το Podcast για Developers
+url: http://devastation.tv
 markdown: redcarpet
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 

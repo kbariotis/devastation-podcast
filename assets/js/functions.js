@@ -4,7 +4,7 @@ $(function() {
   audiojs.events.ready(function () {
     var as = audiojs.createAll();
   });
-  
+
   $("header h1").fitText(1, {
     minFontSize: '20px',
     maxFontSize: '72px'
@@ -12,6 +12,13 @@ $(function() {
   $(".biglink").fitText(1.5);
 
   $('textarea').autosize();
+
+  $('.share a').on('click', function(e) {
+
+    console.log(1);
+    e.preventDefault();
+    window.open($(this).attr('href'), 'Share Window', 'status = 1, height = 700, width = 700, resizable = 0');
+  });
 });
 
 // smoothScroll function is applied from the document ready function
