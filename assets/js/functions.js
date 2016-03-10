@@ -1,6 +1,10 @@
 $(function() {
   smoothScroll(300);
 
+  audiojs.events.ready(function () {
+    var as = audiojs.createAll();
+  });
+  
   $("header h1").fitText(1, {
     minFontSize: '20px',
     maxFontSize: '72px'
