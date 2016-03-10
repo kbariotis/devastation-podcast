@@ -1919,7 +1919,7 @@ a {
   outline: 0; }
 
 a:hover, a:focus {
-  color: #587287; }
+  color: #846E9A; }
 
 ::-moz-selection {
   color: #587287; }
@@ -2071,8 +2071,6 @@ header {
       @media only screen and (min-width: 650px) {
         header nav a {
           display: inline-block; } }
-      header nav a:hover {
-        color: white; }
   header h1 {
     text-align: center;
     color: #8ab2ff;
@@ -2113,6 +2111,7 @@ header {
   header .kicker {
     text-align: center;
     line-height: 1;
+    font-size: 20px;
     color: white; }
 
 footer {
@@ -2139,8 +2138,6 @@ footer {
       color: white;
       display: inline-block;
       margin-right: 30px; }
-      footer .menu a:hover {
-        color: white; }
   footer .copyright {
     float: left;
     display: block;
@@ -2710,10 +2707,7 @@ form {
   .post-title {
     font-size: 42px;
     letter-spacing: -1px;
-    line-height: 1;
-    padding-left: 10px; }
-    .post-title:hover {
-      padding-left: 10px; }
+    line-height: 1.5; }
   .post-meta {
     margin-bottom: 0px;
     padding-bottom: 20px;
@@ -2797,8 +2791,6 @@ form {
       display: inline-block;
       margin-left: 10px;
       color: white; }
-      #h_small #nav_small a:hover {
-        color: white; }
   #h_small #h1_small {
     display: inline-block;
     font-size: 72px;
