@@ -11,8 +11,52 @@
 .audiojs
   margin: 20px auto
 
+.share
+  div
+    display: block
+    width: 138px
+    margin: 2px
+    display: inline-block
+    vertical-align: middle
+
+  a
+    font-size: 18px
+    text-align: center
+    text-decoration:none
+    display: block
+    padding-left: 20px
+    color: #FFFFFF !important
+    font-weight: bold
+    transition:background-color .3s
+
+  .fb a
+    padding: 7px 10px 7px 26px
+    background: #3B5999 url('http://3.bp.blogspot.com/-yqD2363XuAo/UeDk98twSlI/AAAAAAAAArg/kXIzFBWmczM/s1600/fb14.png') no-repeat 20px center
+
+  .twitter a
+    padding: 7px 10px 7px 32px
+    background: #01BBF6 url('http://3.bp.blogspot.com/-0u8P4VQmEeU/UeDlVdilwcI/AAAAAAAAAro/lGTnlvHGyVw/s1600/twitter14.png') no-repeat 16px center
+
+  .gplus a
+    padding: 7px 10px 7px 32px
+    background: #D54135 url('http://3.bp.blogspot.com/-A8fFRexz_zk/UeDlgadvpiI/AAAAAAAAArw/TRd7NWNwo9s/s1600/gplus14.png') no-repeat 20px center
+
+  .linkedin a
+    padding: 7px 10px 7px 32px
+    background: #136F9B url('http://4.bp.blogspot.com/-yuEMxhpIXPc/UeDltjBGR1I/AAAAAAAAAr4/kgidavlGbY8/s1600/linkedin14.png') no-repeat 20px 12px
+
+  .fb a:hover
+    background-color: rgb(50, 75, 129)
+  .twitter a:hover
+    background-color: rgb(1, 159, 211)
+  .gplus a:hover
+    background-color: rgb(191, 52, 40)
+  .linkedin a:hover
+    background-color: rgb(15, 89, 125)
+
 +MQ(S)
   .post-header
+    text-align: center
     max-width: 270px
     +display(flex)
     margin: 10 auto

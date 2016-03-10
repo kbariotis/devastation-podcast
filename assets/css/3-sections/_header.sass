@@ -51,8 +51,7 @@ header
     height: 390px
   +MQ(L)
     height: 450px
-  background: url(../img/thess2.jpg) center center
-  background-size: cover
+  background-image: linear-gradient(to bottom, #0F0C11, #846E9A)
 
   nav
     float: right
@@ -64,7 +63,7 @@ header
       +MQ(M)
         display: inline-block
       margin-left: 20px
-      color: rgba(255, 255, 255, 0.8)
+      color: rgba(255, 255, 255, 1)
 
       &:hover
         color: rgba(255, 255, 255, 1)
@@ -72,7 +71,7 @@ header
   h1
     text-align: center
 
-    color: rgba(138, 178, 255, 0.9)
+    color: rgba(138, 178, 255, 1)
     text-transform: uppercase
     letter-spacing: 0.05cm
     margin-bottom: 20px
@@ -94,6 +93,8 @@ header
         size: 72px
         weight: 700
     span
+      box-shadow: 5px 5px 0px 0px white, inset 5px 5px 0px 0px white
+      text-shadow: 4px 4px white
       display: inline-block
       padding: 0.2em 0.5em
       +MQ(S)
@@ -102,9 +103,9 @@ header
         padding: 0.1em 0.2em
       +MQ(L)
         padding: 0.2em 0.5em
-      border: rgba(77, 113, 183, 0.9) solid 10px
+      border: rgba(77, 113, 183, 1) solid 10px
 
   .kicker
     text-align: center
     line-height: 1
-    color: rgba(255, 255, 255, 0.8)
+    color: rgba(255, 255, 255, 1)
