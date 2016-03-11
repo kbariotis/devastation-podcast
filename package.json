@@ -28,8 +28,7 @@
   ],
   "homepage": "http://devastation.tv",
   "dependencies": {
-    "bourbon": "4.2.6",
-    "bourbon-neat": "1.7.4",
-    "resetcss": "1.0.2"
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.1"
   }
 }

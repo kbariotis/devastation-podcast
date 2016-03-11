@@ -1,0 +1,31 @@
+---
+layout: default
+title: Αρχείο Επισοδίων - Devastation Podcast
+---
+<div class="container">
+    <div class="page-contents">
+        <h2 class="page-title first-elem"> Αρχείο Επισοδίων</h2>
+        <h3 class="page-subtitle">Επισόδια στην κατηγορία {{ page.tag }}</h3>
+
+        <ul id="ptitle-list">
+
+        {% for post in site.posts %}
+            {% for tag in post.tags %}
+                {% if tag == page.tag %}
+
+                <li class="clearfix">
+                	<span class="date">{{ post.date | date_to_long_string }}</span>
+                	<span class="seperator">--</span>
+                    <a href="{{site.url}}{{ post.url }}"><h3 class="title">{{ post.title }}</h3></a>
+                </li>
+
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+
+        </ul>
+
+
+
+    </div>
+</div>
