@@ -3,7 +3,6 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
 
@@ -11,6 +10,33 @@
   <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="/css/base.css">
+
+  <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/DevastationPodcast-PodcastDevelopers" />
+
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="{{ page.title }}">
+  <meta itemprop="description" content="Devastation Podcast - Το podcast για developers">
+  <meta itemprop="image" content="{{site.url}}/img/devastation-podcast-logo.png">
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="{{site.url}}/img/devastation-podcast-logo.png">
+  <meta name="twitter:site" content="@kbariotis">
+  <meta name="twitter:title" content="{{page.title}}">
+  <meta name="twitter:description" content="Devastation Podcast - Το podcast για developers">
+  <meta name="twitter:creator" content="@kbariotis">
+  <!-- Twitter summary card with large image must be at least 280x150px -->
+  <meta name="twitter:image:src" content="{{site.url}}/img/devastation-podcast-logo.png">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{page.title}}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{site.url}}" />
+  <meta property="og:image" content="{{site.url}}/img/devastation-podcast-logo.png" />
+  <meta property="og:description" content="Devastation Podcast - Το podcast για developers" />
+  <meta property="og:site_name" content="Devastation Podcast" />
+  <meta property="article:published_time" content="2016-02-17T05:59:00+01:00" />
+  <meta property="article:modified_time" content="2016-02-16T19:08:47+01:00" />
+  <meta property="fb:admins" content="100000135144863" />
 
 </head>
 
@@ -39,8 +65,7 @@
         <i class="fa fa-envelope-o contact-icon"></i>
         <ul id="contact-list">
           <li><a href="mailto:konmpar@gmail.com">konmpar@gmail.com</a></li>
-          <li class="separator">/</li>
-          <li><a href="#">#kbariotis</a></li>
+          <!-- <li class="separator">/</li> -->
         </ul>
       </div>
       <a href="#" id="contact-close"><i class="fa fa-times"></i></a>

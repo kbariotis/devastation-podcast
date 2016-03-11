@@ -3,45 +3,89 @@ layout: default
 ---
 
 <div class="single-post">
-    <div class="container">
-        <div class="post-item">
-            <div class="post-header">
-                {{content}}
-            </div>
-            <div class="post-body">
-                <div class="meta">
-                    <span class="date">{{ page.date | date_to_long_string }}</span>
-                </div>
-                <h2 class="title">{{page.title}}</h2>
-                <div class="content">
-                    {{ page.content | markdownify }}
-                </div>
-            </div>
-            <div class="post-tags">
-                <i class="fa fa-tags"></i>
-                {% for tag in page.tags %}
-                <a class="tag_list_link" href="{{site.url}}/tag/{{ tag }}">{{ tag }}</a>
-                <span class="seperator">,</span>
-                {% endfor %}
-            </div>
-            <ul class="post-socials">
-                <li><a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}&t={{page.title}}" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://twitter.com/intent/tweet?original_referer={{site.url}}{{page.url}}&text={{page.title}}&url={{site.url}}{{page.url}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="https://plus.google.com/share?url={{site.url}}{{page.url}}" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-            </ul>
+  <div class="container">
+    <div class="post-item">
+      <div class="post-header">
+        {{content}}
+      </div>
+      <div class="post-body">
+        <div class="meta">
+          <span class="date">
+            {% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d" }}
+            {% case m %}
+              {% when '1' %}ΙΑΝΟΥΑΡΙΟΥ
+              {% when '2' %}ΦΕΒΡΟΥΑΡΙΟΥ
+              {% when '3' %}ΜΑΡΤΙΟΥ
+              {% when '4' %}ΑΠΡΙΛΙΟΥ
+              {% when '5' %}ΜΑΙΟΥ
+              {% when '6' %}ΙΟΥΝΙΟΥ
+              {% when '7' %}ΙΟΥΛΙΟΣ
+              {% when '8' %}ΑΥΓΟΥΣΤΟΥ
+              {% when '9' %}ΣΕΠΤΕΜΒΡΙΟΥ
+              {% when '10' %}ΟΚΤΩΒΡΙΟΥ
+              {% when '11' %}ΝΟΕΜΒΡΙΟΥ
+              {% when '12' %}ΔΕΚΕΒΡΙΟΥ
+            {% endcase %}
+            {{ page.date | date: "%Y" }}
+
+          </span>
         </div>
+        <h2 class="title">{{page.title}}</h2>
+        <div class="content">
+          {{ page.content | markdownify }}
+        </div>
+      </div>
+      <div class="post-tags">
+        <i class="fa fa-tags"></i> {% for tag in page.tags %}
+        <a class="tag_list_link" href="{{site.url}}/tag/{{ tag }}">{{ tag }}</a>
+        <span class="seperator">,</span> {% endfor %}
+      </div>
+      <ul class="post-socials">
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{post.url}}&t={{post.title}}" target="_blank">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/intent/tweet?original_referer={{site.url}}{{post.url}}&text={{post.title}}&url={{site.url}}{{post.url}}" target="_blank">
+            <i class="fa fa-twitter"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://plus.google.com/share?url={{site.url}}{{post.url}}" target="_blank">
+            <i class="fa fa-google-plus"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{post.url}}&title={{post.title}}&summary=&source={{site.url}}{{post.url}}" target="_blank">
+            <i class="fa fa-linkedin"></i>
+          </a>
+        </li>
+      </ul>
     </div>
-    <div id="blog-pagination">
-        <ul>
-        	{% if page.previous.url %}
-            <li class="prev"><a href="{{site.url}}{{page.previous.url}}"><i class="fa fa-angle-left"></i><span>Προηγούμενο</span></a></li>
-            {% endif %}
-            {% if page.previous.url or page.next.url%}
-            <li class="separator"></li>
-            {% endif %}
-            {% if page.next.url %}
-            <li class="next"><a href="{{site.url}}{{page.next.url}}"><span>Επόμενο</span><i class="fa fa-angle-right"></i></a></li>
-            {% endif %}
-        </ul>
+    <div class="subscribe text-center">
+      <div class="form-header">Ενημερωθείτε για καινούρια επισόδια</div>
+        <form action="//wordpress.us7.list-manage.com/subscribe/post?u=7328aa08c74bc091df2bd36f1&amp;id=4209ce47ad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
+        	<div class="form-group">
+            <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="διεύθυνση email" required>
+          </div>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7328aa08c74bc091df2bd36f1_4209ce47ad" tabindex="-1" value=""></div>
+          <input type="submit" value="Εγγραφή" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default"></div>
+        </form>
+      </div>
     </div>
+  </div>
+  <div id="blog-pagination">
+    <ul>
+      {% if page.previous.url %}
+      <li class="prev"><a href="{{site.url}}{{page.previous.url}}"><i class="fa fa-angle-left"></i><span>Προηγούμενο</span></a></li>
+      {% endif %} {% if page.previous.url or page.next.url%}
+      <li class="separator"></li>
+      {% endif %} {% if page.next.url %}
+      <li class="next"><a href="{{site.url}}{{page.next.url}}"><span>Επόμενο</span><i class="fa fa-angle-right"></i></a></li>
+      {% endif %}
+    </ul>
+  </div>
 </div>

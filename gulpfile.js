@@ -70,7 +70,15 @@ gulp.task('watch', function () {
   // gulp.watch('assets/', ['sass']);
   // gulp.watch('assets/js/**', ['jekyll-rebuild']);
   // gulp.watch('_jadefiles/*.jade', ['jade']);
-  gulp.watch(['js/**', 'css/**', 'index.html', '_layouts/*.html', '_includes/*'], ['jekyll-rebuild']);
+  gulp.watch([
+    'js/**',
+    'css/**',
+    'index.html',
+    '_layouts/*.html',
+    'pages/*.html',
+    '_includes/*',
+    '_posts/*'
+  ], ['jekyll-rebuild']);
 });
 
 gulp.task('deploy', function() {
