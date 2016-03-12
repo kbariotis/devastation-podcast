@@ -10,3 +10,4 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 gems:
   - jekyll-feed
+  - jekyll-sitemap

@@ -51,7 +51,7 @@ header {
 #logo {
   width: 200px;
   height: 200px;
-  margin: 0 auto 20px auto;
+  margin: 0 auto;
 }
 #logo img {
   border-radius: 50%;
