@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator><link href="http://devastation.tv/feed.xml" rel="self" type="application/atom+xml" /><link href="http://devastation.tv/" rel="alternate" type="text/html" /><updated>2016-03-12T16:26:34+02:00</updated><id>http://devastation.tv/</id><title>Devastation Podcast</title><subtitle>Devastation Podcast - Το Podcast για Developers</subtitle><entry><title>Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων</title><link href="http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/" rel="alternate" type="text/html" title="Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων" /><published>2016-02-25T00:00:00+02:00</published><updated>2016-02-25T00:00:00+02:00</updated><id>http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis</id><content type="html" xml:base="http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/">&lt;p&gt;Γνώρισα τον Θανάση το 2014 όταν η τεχνολογική κοινότητα της Θεσσαλονίκης δεν
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator><link href="http://devastation.tv/feed.xml" rel="self" type="application/atom+xml" /><link href="http://devastation.tv/" rel="alternate" type="text/html" /><updated>2016-03-12T17:20:05+02:00</updated><id>http://devastation.tv/</id><title>Devastation Podcast</title><subtitle>Devastation Podcast - Το Podcast για Developers</subtitle><entry><title>Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων</title><link href="http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/" rel="alternate" type="text/html" title="Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων" /><published>2016-02-25T00:00:00+02:00</published><updated>2016-02-25T00:00:00+02:00</updated><id>http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis</id><content type="html" xml:base="http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/">&lt;p&gt;Γνώρισα τον Θανάση το 2014 όταν η τεχνολογική κοινότητα της Θεσσαλονίκης δεν
 είχε πάρει ακόμη την σημερινή της μορφή. Δεν άργησαν τα ταιριάξουν τα χνώτα μας
 και δεν χάνω ευκαιρία σε κάθε συνάντηση μας να πάρω την άποψη του για κάποιο
 προβληματισμό μου.&lt;/p&gt;
@@ -13,15 +13,15 @@
 &lt;p&gt;Σύνδεσμοι:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://thanpol.as&quot;&gt;Θανάσης Πολυχρονάκης&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://20minus.com&quot;&gt;20minus.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://netscan.co&quot;&gt;Netscan.co&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://insightreplay.com&quot;&gt;Insight Replay&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://devitconf.org&quot;&gt;Devit Conference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://skgtech.io&quot;&gt;SKGtech.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vChly7JQiew&quot;&gt;How To Freelance&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://frontmass.org&quot;&gt;FrontMASS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://heroku.com&quot;&gt;Heroku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://thanpol.as&quot; target=&quot;_blank&quot;&gt;Θανάσης Πολυχρονάκης&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://20minus.com&quot; target=&quot;_blank&quot;&gt;20minus.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://netscan.co&quot; target=&quot;_blank&quot;&gt;Netscan.co&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://insightreplay.com&quot; target=&quot;_blank&quot;&gt;Insight Replay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://devitconf.org&quot; target=&quot;_blank&quot;&gt;Devit Conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://skgtech.io&quot; target=&quot;_blank&quot;&gt;SKGtech.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vChly7JQiew&quot; target=&quot;_blank&quot;&gt;How To Freelance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://frontmass.org&quot; target=&quot;_blank&quot;&gt;FrontMASS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://heroku.com&quot; target=&quot;_blank&quot;&gt;Heroku&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br/&gt;
