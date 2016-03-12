@@ -29,6 +29,7 @@ audio: https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3
 * [Insight Replay](http://insightreplay.com)
 * [Devit Conference](http://devitconf.org)
 * [SKGtech.io](http://skgtech.io)
+* [How To Freelance](https://www.youtube.com/watch?v=vChly7JQiew)
 * [FrontMASS](http://frontmass.org)
 * [Heroku](http://heroku.com)
 
