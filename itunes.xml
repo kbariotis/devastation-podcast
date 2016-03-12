@@ -9,9 +9,9 @@
     <language>el-gr</language>
     <pubDate>Thu, 25 Feb 2016 23:30:07 EDT</pubDate>
     <lastBuildDate>Thu, 25 Feb 2016 23:30:07 EDT</lastBuildDate>
-    <itunes:category text="Developers"/>
-    <itunes:category text="Startups"/>
-    <itunes:category text="Programming"/>
+    <itunes:category text="Developers"></itunes:category>
+    <itunes:category text="Startups"></itunes:category>
+    <itunes:category text="Programming"></itunes:category>
     <itunes:explicit>No</itunes:explicit>
     <itunes:image href="http://devastation.tv/img/thess.jpg"/>
 
@@ -24,7 +24,7 @@
     <item>
 
       <itunes:author>Kostas Bariotis</itunes:author>
-      <itunes:keywords/>
+      <itunes:keywords>Nodejs, Startups, SKGtech</itunes:keywords>
       <itunes:duration>38:88</itunes:duration>
       <title>Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων</title>
       <guid isPermaLink="true">https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3</guid>
