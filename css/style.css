@@ -452,10 +452,21 @@ header {
 
 .subscribe .btn:active,
 .subscribe .btn:hover,
+.subscribe .btn:focus,
 .subscribe .btn:visited {
   border: 0;
   box-shadow: none;
   outline: 0;
+}
+
+.subscribe .btn:hover {
+  background-color: #44629b;
+}
+
+.subscribe .btn,
+.subscribe .form-control {
+  border: 0;
+  border-radius: 0;
 }
 
 .subscribe .form-control:focus {
