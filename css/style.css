@@ -461,6 +461,7 @@ header {
 .subscribe .form-control:focus {
   border: 0;
   box-shadow: none;
+  border-radius: 0;
 }
 
 .subscribe .form-header {

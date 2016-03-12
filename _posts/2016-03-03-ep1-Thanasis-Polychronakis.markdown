@@ -34,5 +34,5 @@ audio: https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3
 
 <br/>
 <br/>
-**θα χαιρόμουν πολύ εαν μοιραζόσταν το πρώτο επισόδιο του Devastation Podcast με
+**θα χαιρόμουν πολύ εαν μοιραζόσταν το πρώτο επεισόδιο του Devastation Podcast με
 κάποιο φίλο σας.** 😃
