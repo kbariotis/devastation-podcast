@@ -1,0 +1,38 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Devastation Podcast</title>
+    <link>http://devastation.tv</link>
+    <description>Το Podcast για Developers</description>
+    <itunes:author>Kostas Bariotis</itunes:author>
+    <copyright>© 2016 Kostas Bariotis</copyright>
+
+    <language>el-gr</language>
+    <pubDate>Thu, 25 Feb 2016 23:30:07 EDT</pubDate>
+    <lastBuildDate>Thu, 25 Feb 2016 23:30:07 EDT</lastBuildDate>
+    <itunes:category text="Developers"/>
+    <itunes:category text="Startups"/>
+    <itunes:category text="Programming"/>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="http://devastation.tv/img/devastion-podcast-logo.png"/>
+
+    <itunes:subtitle>Είμαι ο Κώστας Μπαριώτης και αυτό είναι το Devastation Podcast.</itunes:subtitle>
+    <itunes:summary>Για εκείνες τις στιγμές απόγνωσης μπροστά απο ένα πληκτρολόγιο, τώρα υπάρχει podcast.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Kostas Bariotis</itunes:name>
+      <itunes:email>konmpar@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+
+      <itunes:author>Kostas Bariotis</itunes:author>
+      <itunes:keywords/>
+      <itunes:duration>38:88</itunes:duration>
+      <title>Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων</title>
+      <guid isPermaLink="true">https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3</guid>
+      <description>Σε αυτό το επισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα startups, την κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζετε με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.</description>
+
+      <category>Συνεντεύξεις</category>
+      <pubDate>Thu, 25 Feb 2016 09:51:00 EDT</pubDate>
+      <enclosure length="1037273" url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
