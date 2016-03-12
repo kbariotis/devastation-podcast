@@ -23,15 +23,15 @@ audio: https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3
 
 Σύνδεσμοι:
 
-* [Θανάσης Πολυχρονάκης](http://thanpol.as)
-* [20minus.com](http://20minus.com)
-* [Netscan.co](https://netscan.co)
-* [Insight Replay](http://insightreplay.com)
-* [Devit Conference](http://devitconf.org)
-* [SKGtech.io](http://skgtech.io)
-* [How To Freelance](https://www.youtube.com/watch?v=vChly7JQiew)
-* [FrontMASS](http://frontmass.org)
-* [Heroku](http://heroku.com)
+* <a href="http://thanpol.as" target="_blank">Θανάσης Πολυχρονάκης</a>
+* <a href="http://20minus.com" target="_blank">20minus.com</a>
+* <a href="https://netscan.co" target="_blank">Netscan.co</a>
+* <a href="http://insightreplay.com" target="_blank">Insight Replay</a>
+* <a href="http://devitconf.org" target="_blank">Devit Conference</a>
+* <a href="http://skgtech.io" target="_blank">SKGtech.io</a>
+* <a href="https://www.youtube.com/watch?v=vChly7JQiew" target="_blank">How To Freelance</a>
+* <a href="http://frontmass.org" target="_blank">FrontMASS</a>
+* <a href="http://heroku.com" target="_blank">Heroku</a>
 
 <br/>
 <br/>
