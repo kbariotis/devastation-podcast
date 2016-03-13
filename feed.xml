@@ -1,53 +1,86 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-	<channel>
-		<title>{{ site.name }}</title>
-		<description>{{ site.description }}</description>
-		<link>{{ site.url }}</link>
-		<language>el-gr</language>
-		<managingEditor>{{ site.managerName }} ({{ site.managerEmail }})</managingEditor>
-		<webMaster>{{ site.managerName }} ({{ site.managerEmail }})</webMaster>
-		<copyright>2016 {{ site.organizationName }}</copyright>
-		<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-		<lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
-		<image>
-			<link>{{ site.url}}</link>
-			<url>{{ site.url }}{{ site.squareLogo}}</url>
-			<title>{{ site.title }}</title>
-		</image>
+<rss
+  version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <title>{{ site.name }}</title>
+    <description>{{ site.description }}</description>
+    <link>{{ site.url }}</link>
+    <language>el-gr</language>
+    <managingEditor>{{ site.managerName }}
+      ({{ site.managerEmail }})</managingEditor>
+    <webMaster>{{ site.managerName }}
+      ({{ site.managerEmail }})</webMaster>
+    <copyright>2016
+      {{ site.organizationName }}</copyright>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
+    <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
+    <rawvoice:frequency>Monthly</rawvoice:frequency>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <image>
+      <link>{{ site.url}}</link>
+      <url>{{ site.url }}{{ site.squareLogo}}</url>
+      <title>{{ site.title }}</title>
+    </image>
     <itunes:explicit>No</itunes:explicit>
-		<itunes:subtitle>{{ site.podcastSubtitle }}</itunes:subtitle>
-		<itunes:author>{{ site.managerName }}</itunes:author>
+    <itunes:subtitle>{{ site.podcastSubtitle }}</itunes:subtitle>
+    <itunes:author>{{ site.managerName }}</itunes:author>
     <itunes:summary>Για εκείνες τις στιγμές απόγνωσης μπροστά απο ένα πληκτρολόγιο, τώρα υπάρχει podcast.</itunes:summary>
     <itunes:keywords>Programming, Startups, SKGtech, Greece</itunes:keywords>
-		<itunes:owner>
-			<itunes:name>{{ site.managerName}}</itunes:name>
-			<itunes:email>{{ site.managerEmail}}</itunes:email>
-		</itunes:owner>
-		<itunes:image href="{{ site.url }}{{ site.squareLogo}}" />
+    <itunes:owner>
+      <itunes:name>{{ site.managerName}}</itunes:name>
+      <itunes:email>{{ site.managerEmail}}</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ site.url }}{{ site.squareLogo}}"/>
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
-		{% for post in site.posts %}
-			<item>
-				<title>{{ post.title }}</title>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-				<description>{{ post.description }}</description>
-				<guid isPermaLink="true">{{ post.audio }}</guid>
-				<enclosure url="{{ post.audio }}" length="{{ post.length }}" type="audio/mp3"/>
-				<itunes:author>{{ site.managerName }}</itunes:author>
-				<itunes:subtitle></itunes:subtitle>
-				<itunes:summary><![CDATA[
-            {{post.content}}
-        ]]></itunes:summary>
-				<itunes:duration>{{ post.podcastLength }}</itunes:duration>
-				<itunes:keywords>{% for tag in post.tags %}{{ tag }},{% endfor %}</itunes:keywords>
-				<itunes:image href="{% if post.image %}{{ site.url }}{{ post.image }}{% else %}{{ site.url }}{{site.squareLogo}}{% endif %}" />
-				<itunes:explicit>no</itunes:explicit>
-			</item>
-		{% endfor %}
-	</channel>
+    {% for post in site.posts %}
+      <item>
+        <title>{{ post.title }}</title>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+        <description>{{ post.description }}</description>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <enclosure url="{{ post.audio }}" length="{{ post.length }}" type="audio/mp3"/>
+        <itunes:author>{{ site.managerName }}</itunes:author>
+				<dc:creator>{{ site.managerName }}</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            {{ post.content }}
+        ]]>
+        </content:encoded>
+				<description>
+					{{ post.summary }}
+				</description>
+				<itunes:subtitle>
+					{{ post.summary }}
+				</itunes:subtitle>
+				<itunes:summary>
+					{{ post.summary }}
+				</itunes:summary>
+        <itunes:duration>{{ post.podcastLength }}</itunes:duration>
+				{% for tag in post.tags %}
+				<category><![CDATA[{{ tag }}]]></category>
+				{% endfor %}
+        <itunes:keywords>
+          {% for tag in post.tags %}{{ tag }},{% endfor %}
+        </itunes:keywords>
+        <itunes:image href="{% if post.image %}{{ site.url }}{{ post.image }}{% else %}{{ site.url }}{{site.squareLogo}}{% endif %}"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    {% endfor %}
+  </channel>
 </rss>
