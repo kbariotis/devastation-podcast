@@ -7,6 +7,8 @@ tags:
 - Startups
 - SKGtech
 audio: https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3
+podcastLength: 38:88
+length: 1037273
 ---
 
 Γνώρισα τον Θανάση το 2014 όταν η τεχνολογική κοινότητα της Θεσσαλονίκης δεν
@@ -35,5 +37,5 @@ audio: https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3
 
 <br/>
 <br/>
-**θα χαιρόμουν πολύ εαν μοιραζόσταν το πρώτο επεισόδιο του Devastation Podcast με
+**θα χαιρόμουν πολύ εαν μοιραζόσασταν το πρώτο επεισόδιο του Devastation Podcast με
 κάποιο φίλο σας.** 😃

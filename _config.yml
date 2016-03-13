@@ -1,6 +1,11 @@
 name: Devastation Podcast
 description: Devastation Podcast - Το Podcast για Developers
 url: http://devastation.tv
+managerName: Kostas Bariotis
+managerEmail: konmpar@gmail.com
+squareLogo: /img/thess.jpg
+organizationName: Devastation Podcast
+podcastSubtitle: Devastation Podcast - Το Podcast για Developers
 
 markdown: redcarpet
 permalink: pretty
@@ -9,5 +14,4 @@ highlighter: null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 gems:
-  - jekyll-feed
   - jekyll-sitemap
