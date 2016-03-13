@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>Devastation Podcast</title>
+		<description>Devastation Podcast - Το Podcast για Developers</description>
+		<link>http://devastation.tv</link>
+		<language>el-gr</language>
+		<managingEditor>Kostas Bariotis (konmpar@gmail.com)</managingEditor>
+		<webMaster>Kostas Bariotis (konmpar@gmail.com)</webMaster>
+		<copyright>2016 Devastation Podcast</copyright>
+		<pubDate>Sun, 13 Mar 2016 20:12:43 GMT</pubDate>
+		<lastBuildDate>Sun, 13 Mar 2016</lastBuildDate>
+		<image>
+			<link>http://devastation.tv</link>
+			<url>http://devastation.tv/img/thess.jpg</url>
+			<title></title>
+		</image>
+    <itunes:explicit>No</itunes:explicit>
+		<itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
+		<itunes:author>Kostas Bariotis</itunes:author>
+    <itunes:summary>Για εκείνες τις στιγμές απόγνωσης μπροστά απο ένα πληκτρολόγιο, τώρα υπάρχει podcast.</itunes:summary>
+    <itunes:keywords>Programming, Startups, SKGtech, Greece</itunes:keywords>
+		<itunes:owner>
+			<itunes:name>Kostas Bariotis</itunes:name>
+			<itunes:email>konmpar@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://devastation.tv/img/thess.jpg" />
+    <itunes:category text="Technology">
+      <itunes:category text="Podcasting"/>
+    </itunes:category>
+		
+			<item>
+				<title>Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων</title>
+				<link>http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/</link>
+				<pubDate>Thu, 25 Feb 2016 00:00:00 GMT</pubDate>
+				<description></description>
+				<guid isPermaLink="true">https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3</guid>
+				<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3" length="1037273" type="audio/mp3"/>
+				<itunes:author>Kostas Bariotis</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[
+            <p>Γνώρισα τον Θανάση το 2014 όταν η τεχνολογική κοινότητα της Θεσσαλονίκης δεν
+είχε πάρει ακόμη την σημερινή της μορφή. Δεν άργησαν τα ταιριάξουν τα χνώτα μας
+και δεν χάνω ευκαιρία σε κάθε συνάντηση μας να πάρω την άποψη του για κάποιο
+προβληματισμό μου.</p>
+
+<p>Είναι Nodejs consultant, σκληροπυρηνικός προγραμματιστής με επιχειρηματικές
+διαθέσεις. Τρέχει πάντα κάποιο ενδιαφέρον project και μετράει τον χρόνο του.</p>
+
+<p>Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την
+κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται
+με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.</p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="http://thanpol.as" target="_blank">Θανάσης Πολυχρονάκης</a></li>
+<li><a href="http://20minus.com" target="_blank">20minus.com</a></li>
+<li><a href="https://netscan.co" target="_blank">Netscan.co</a></li>
+<li><a href="http://insightreplay.com" target="_blank">Insight Replay</a></li>
+<li><a href="http://devitconf.org" target="_blank">Devit Conference</a></li>
+<li><a href="http://skgtech.io" target="_blank">SKGtech.io</a></li>
+<li><a href="https://www.youtube.com/watch?v=vChly7JQiew" target="_blank">How To Freelance</a></li>
+<li><a href="http://frontmass.org" target="_blank">FrontMASS</a></li>
+<li><a href="http://heroku.com" target="_blank">Heroku</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>θα χαιρόμουν πολύ εαν μοιραζόσασταν το πρώτο επεισόδιο του Devastation Podcast με
+κάποιο φίλο σας.</strong> 😃</p>
+
+        ]]></itunes:summary>
+				<itunes:duration>38:88</itunes:duration>
+				<itunes:keywords>Nodejs,Startups,SKGtech,</itunes:keywords>
+				<itunes:image href="http://devastation.tv/img/thess.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+			</item>
+		
+	</channel>
+</rss>
