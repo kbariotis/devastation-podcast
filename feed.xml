@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss
   version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:wfw="http://wellformedweb.org/CommentAPI/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -11,18 +12,17 @@
   xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
   <channel>
+    <atom:link href="http://devastation.tv/feed.xml" rel="self" type="application/rss+xml" />
     <title>Devastation Podcast</title>
     <description>Devastation Podcast - Το Podcast για Developers</description>
     <link>http://devastation.tv</link>
     <language>el-gr</language>
-    <managingEditor>Kostas Bariotis
-      (konmpar@gmail.com)</managingEditor>
-    <webMaster>Kostas Bariotis
-      (konmpar@gmail.com)</webMaster>
+    <managingEditor>konmpar@gmail.com</managingEditor>
+    <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016
       Devastation Podcast</copyright>
-    <pubDate>Sun, 13 Mar 2016 20:37:42 GMT</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2016 16:08:04 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2016 16:08:04 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -30,7 +30,7 @@
     <image>
       <link>http://devastation.tv</link>
       <url>http://devastation.tv/img/thess.jpg</url>
-      <title></title>
+      <title>Devastation Podcast</title>
     </image>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
@@ -99,7 +99,7 @@
 				<itunes:summary>
 					Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.
 				</itunes:summary>
-        <itunes:duration>38:88</itunes:duration>
+        <itunes:duration>2280.0</itunes:duration>
 				
 				<category><![CDATA[Nodejs]]></category>
 				
