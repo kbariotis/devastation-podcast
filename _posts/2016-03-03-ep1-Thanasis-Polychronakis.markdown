@@ -7,7 +7,7 @@ tags:
 - Startups
 - SKGtech
 audio: https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3
-podcastLength: 38:88
+podcastLength: 38:00
 length: 1037273
 summary: "Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την
 κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται

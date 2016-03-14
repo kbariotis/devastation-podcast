@@ -3,6 +3,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss
   version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:wfw="http://wellformedweb.org/CommentAPI/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -13,18 +14,17 @@
   xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
   <channel>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     <title>{{ site.name }}</title>
     <description>{{ site.description }}</description>
     <link>{{ site.url }}</link>
     <language>el-gr</language>
-    <managingEditor>{{ site.managerName }}
-      ({{ site.managerEmail }})</managingEditor>
-    <webMaster>{{ site.managerName }}
-      ({{ site.managerEmail }})</webMaster>
+    <managingEditor>{{ site.managerEmail }}</managingEditor>
+    <webMaster>{{ site.managerEmail }}</webMaster>
     <copyright>2016
       {{ site.organizationName }}</copyright>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -32,7 +32,7 @@
     <image>
       <link>{{ site.url}}</link>
       <url>{{ site.url }}{{ site.squareLogo}}</url>
-      <title>{{ site.title }}</title>
+      <title>{{ site.name }}</title>
     </image>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>{{ site.podcastSubtitle }}</itunes:subtitle>
