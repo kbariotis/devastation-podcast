@@ -692,4 +692,19 @@ blockquote {
   display: block;
 }
 
+#disqus_thread {
+  padding-top: 100px;
+}
+
+@media screen and (max-width: 768px) {
+	.post-tags,
+	.post-socials {
+    float: none;
+  }
+
+  .post-socials {
+    padding-top: 50px;
+  }
+}
+
 }
