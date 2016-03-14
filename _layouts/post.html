@@ -63,6 +63,15 @@ layout: default
           </a>
         </li>
       </ul>
+      <div id="disqus_thread"></div>
+      <script>
+      var disqus_config = function () {
+        this.page.url = "{{site.url}}{{page.url}}";
+        this.page.identifier = "{{page.title}}";
+      };
+      (function(){var d = document, s = d.createElement('script');s.src = '//devastationpodcast.disqus.com/embed.js';s.setAttribute('data-timestamp', +new Date());(d.head || d.body).appendChild(s);})();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
     </div>
     <div class="subscribe text-center">
       <div class="form-header">Ενημερωθείτε για καινούρια επεισόδια</div>
