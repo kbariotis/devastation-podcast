@@ -18,10 +18,9 @@
     <language>el-gr</language>
     <managingEditor>konmpar@gmail.com</managingEditor>
     <webMaster>konmpar@gmail.com</webMaster>
-    <copyright>2016
-      Devastation Podcast</copyright>
-    <pubDate>Wed, 23 Mar 2016 23:44:30 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Mar 2016 23:44:30 GMT</lastBuildDate>
+    <copyright>2016 Devastation Podcast</copyright>
+    <pubDate>Thu, 24 Mar 2016 00:10:54 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Mar 2016 00:10:54 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -41,12 +40,12 @@
       <itunes:email>konmpar@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://devastation.tv/img/thess.jpg"/>
-    <itunes:category text="Technology"/>
+    <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
     
       <item>
-        <title>Επ. 2 - Πάτροκλος Παπαπέτρου - Dev Team Management</title>
+        <title><![CDATA[Επ. 2 - Πάτροκλος Παπαπέτρου - Dev Team Management]]></title>
         <link>http://devastation.tv/2016/03/23/ep2-Patroklos-Papapetrou/</link>
         <pubDate>Wed, 23 Mar 2016 00:00:00 GMT</pubDate>
         <description></description>
@@ -113,7 +112,7 @@
       </item>
     
       <item>
-        <title>Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων</title>
+        <title><![CDATA[Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων]]></title>
         <link>http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/</link>
         <pubDate>Thu, 25 Feb 2016 00:00:00 GMT</pubDate>
         <description></description>
