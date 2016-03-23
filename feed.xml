@@ -20,8 +20,8 @@
     <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016
       Devastation Podcast</copyright>
-    <pubDate>Wed, 23 Mar 2016 22:33:30 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Mar 2016 22:33:30 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Mar 2016 23:37:04 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Mar 2016 23:37:04 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -41,7 +41,7 @@
       <itunes:email>konmpar@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://devastation.tv/img/thess.jpg"/>
-    <itunes:category text="Technology">
+    <itunes:category text="Technology"/>
       <itunes:category text="Podcasting"/>
     </itunes:category>
     
@@ -51,7 +51,7 @@
         <pubDate>Wed, 23 Mar 2016 00:00:00 GMT</pubDate>
         <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/03/23/ep2-Patroklos-Papapetrou/</guid>
-        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" length="45635291" type="audio/mp3"/>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" length="45635291" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
 				<dc:creator>Kostas Bariotis</dc:creator>
         <content:encoded>
@@ -118,7 +118,7 @@
         <pubDate>Thu, 25 Feb 2016 00:00:00 GMT</pubDate>
         <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/</guid>
-        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3" length="37097221" type="audio/mp3"/>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3" length="37097221" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
 				<dc:creator>Kostas Bariotis</dc:creator>
         <content:encoded>
