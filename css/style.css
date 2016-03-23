@@ -696,6 +696,10 @@ blockquote {
   padding-top: 100px;
 }
 
+.subscribe-icons {
+  margin-top: 40px;
+}
+
 @media screen and (max-width: 768px) {
 	.post-tags,
 	.post-socials {
