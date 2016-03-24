@@ -3,15 +3,14 @@
   version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <atom:link href="http://devastation.tv/feed.xml" rel="self" type="application/rss+xml" />
     <title>Devastation Podcast</title>
     <description>Devastation Podcast - Το Podcast για Developers</description>
     <link>http://devastation.tv</link>
     <language>el-gr</language>
-    <managingEditor>konmpar@gmail.com</managingEditor>
-    <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Thu, 24 Mar 2016 20:31:02 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Mar 2016 20:31:02 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Mar 2016 20:32:58 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Mar 2016 20:32:58 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
@@ -28,11 +27,8 @@
     
       <item>
       	<title><![CDATA[Επ. 2 - Πάτροκλος Παπαπέτρου - Dev Team Management]]></title>
-      	<itunes:author>fdsafdsaf</itunes:author>
-      	<itunes:subtitle>fdsafdsafs</itunes:subtitle>
-        <itunes:subtitle>
-					Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα διαχείρισης της Development ομάδας μας. Ο Πάτροκλος είναι Software Engineering Manager με πολυετή εμπειρία και πιστεύω πως είναι ο κατάλληλος να απαντήσει στις ερωτήσεις μου περι Dev Team Management.
-				</itunes:subtitle>
+      	<itunes:author>Kostas Bariotis</itunes:author>
+        <itunes:subtitle>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα διαχείρισης της Development ομάδας μας. Ο Πάτροκλος είναι Software Engineering Manager με πολυετή εμπειρία και πιστεύω πως είναι ο κατάλληλος να απαντήσει στις ερωτήσεις μου περι Dev Team Management.</itunes:subtitle>
       	<description><![CDATA[]]></description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" length="45635291" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/03/23/ep2-Patroklos-Papapetrou/</guid>
@@ -46,11 +42,8 @@
     
       <item>
       	<title><![CDATA[Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων]]></title>
-      	<itunes:author>fdsafdsaf</itunes:author>
-      	<itunes:subtitle>fdsafdsafs</itunes:subtitle>
-        <itunes:subtitle>
-					Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.
-				</itunes:subtitle>
+      	<itunes:author>Kostas Bariotis</itunes:author>
+        <itunes:subtitle>Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.</itunes:subtitle>
       	<description><![CDATA[]]></description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3" length="37097221" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/</guid>
