@@ -3,14 +3,13 @@
   version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <atom:link href="http://devastation.tv/feed.xml" rel="self" type="application/rss+xml" />
     <title>Devastation Podcast</title>
     <description>Devastation Podcast - Το Podcast για Developers</description>
     <link>http://devastation.tv</link>
     <language>el-gr</language>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Thu, 24 Mar 2016 20:32:58 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Mar 2016 20:32:58 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Mar 2016 20:33:48 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Mar 2016 20:33:48 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
