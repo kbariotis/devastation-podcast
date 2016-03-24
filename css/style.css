@@ -700,6 +700,10 @@ blockquote {
   margin-top: 40px;
 }
 
+.subscribe-icons ul li {
+  margin: 0 20px;
+}
+
 @media screen and (max-width: 768px) {
 	.post-tags,
 	.post-socials {
