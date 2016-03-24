@@ -14,7 +14,23 @@ title: Αρχείο Επεισοδίων - Devastation Podcast
                 {% if tag == page.tag %}
 
                 <li class="clearfix">
-                	<span class="date">{{ post.date | date_to_long_string }}</span>
+                  {% assign m = post.date | date: "%-m" %}
+                  {{ post.date | date: "%-d" }}
+                  {% case m %}
+                    {% when '1' %}ΙΑΝΟΥΑΡΙΟΥ
+                    {% when '2' %}ΦΕΒΡΟΥΑΡΙΟΥ
+                    {% when '3' %}ΜΑΡΤΙΟΥ
+                    {% when '4' %}ΑΠΡΙΛΙΟΥ
+                    {% when '5' %}ΜΑΙΟΥ
+                    {% when '6' %}ΙΟΥΝΙΟΥ
+                    {% when '7' %}ΙΟΥΛΙΟΣ
+                    {% when '8' %}ΑΥΓΟΥΣΤΟΥ
+                    {% when '9' %}ΣΕΠΤΕΜΒΡΙΟΥ
+                    {% when '10' %}ΟΚΤΩΒΡΙΟΥ
+                    {% when '11' %}ΝΟΕΜΒΡΙΟΥ
+                    {% when '12' %}ΔΕΚΕΒΡΙΟΥ
+                  {% endcase %}
+                  <span class="date">{{ post.date | date: "%Y" }}</span>
                 	<span class="seperator">--</span>
                     <a href="{{site.url}}{{ post.url }}"><h3 class="title">{{ post.title }}</h3></a>
                 </li>
@@ -24,7 +40,6 @@ title: Αρχείο Επεισοδίων - Devastation Podcast
         {% endfor %}
 
         </ul>
-
-        {% include subscribe.html %}
     </div>
+    {% include subscribe.html %}
 </div>
