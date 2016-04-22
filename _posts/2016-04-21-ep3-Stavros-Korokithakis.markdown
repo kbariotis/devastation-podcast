@@ -13,8 +13,6 @@ summary: "Στο τρίτο επεισόδιο με φιλοξενεί ο Στα
 για μια συζήτηση για Testing. Γράφει Python και Django και το testing είναι απο
 τις αγαπημένες ασχολίες του."
 ---
-<a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep3-stavros-testing.mp3" target="_blank">Κατέβασε το στον υπολογιστή σου</a>
-
 Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του
 για μια συζήτηση για Testing. Γράφει Python και Django και το testing είναι απο
 τις αγαπημένες ασχολίες του.
@@ -26,6 +24,8 @@ summary: "Στο τρίτο επεισόδιο με φιλοξενεί ο Στα
 
 Τις εγκάρδιες ευχές μου στον Στέλιο και στο SSMAP podcast που μας δάνεισε το
 μικρόφωνο του.
+
+<a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep3-stavros-testing.mp3" target="_blank">Κατέβασε το στον υπολογιστή σου</a>
 
 Σύνδεσμοι:
 
