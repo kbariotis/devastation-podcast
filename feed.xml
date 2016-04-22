@@ -19,8 +19,8 @@
     <managingEditor>konmpar@gmail.com</managingEditor>
     <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Thu, 21 Apr 2016 08:51:18 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Apr 2016 08:51:18 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Apr 2016 09:17:04 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Apr 2016 09:17:04 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -55,7 +55,9 @@
 				<dc:creator>Kostas Bariotis</dc:creator>
         <content:encoded>
         <![CDATA[
-            <p>Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του
+            <p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep3-stavros-testing.mp3" target="_blank">Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του
 για μια συζήτηση για Testing. Γράφει Python και Django και το testing είναι απο
 τις αγαπημένες ασχολίες του.</p>
 
@@ -122,7 +124,9 @@
 				<dc:creator>Kostas Bariotis</dc:creator>
         <content:encoded>
         <![CDATA[
-            <p>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα
+            <p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" target="_blank">Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα
 διαχείρισης της Development ομάδας μας.</p>
 
 <p>Ο Πάτροκλος είναι Software Engineering Manager με πολυετή εμπειρία και πιστεύω
@@ -189,7 +193,10 @@
 				<dc:creator>Kostas Bariotis</dc:creator>
         <content:encoded>
         <![CDATA[
-            <p>Γνώρισα τον Θανάση το 2014 όταν η τεχνολογική κοινότητα της Θεσσαλονίκης δεν
+            <p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3"
+ target="_blank">Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Γνώρισα τον Θανάση το 2014 όταν η τεχνολογική κοινότητα της Θεσσαλονίκης δεν
 είχε πάρει ακόμη την σημερινή της μορφή. Δεν άργησαν τα ταιριάξουν τα χνώτα μας
 και δεν χάνω ευκαιρία σε κάθε συνάντηση μας να πάρω την άποψη του για κάποιο
 προβληματισμό μου.</p>
