@@ -19,8 +19,8 @@
     <managingEditor>konmpar@gmail.com</managingEditor>
     <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Fri, 22 Apr 2016 21:04:29 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Apr 2016 21:04:29 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Apr 2016 01:00:02 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Apr 2016 01:00:02 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -55,9 +55,7 @@
 				<dc:creator>Kostas Bariotis</dc:creator>
         <content:encoded>
         <![CDATA[
-            <p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep3-stavros-testing.mp3" target="_blank">Κατέβασε το στον υπολογιστή σου</a></p>
-
-<p>Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του
+            <p>Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του
 για μια συζήτηση για Testing. Γράφει Python και Django και το testing είναι απο
 τις αγαπημένες ασχολίες του.</p>
 
@@ -68,6 +66,8 @@
 
 <p>Τις εγκάρδιες ευχές μου στον Στέλιο και στο SSMAP podcast που μας δάνεισε το
 μικρόφωνο του.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep3-stavros-testing.mp3" target="_blank">Κατέβασε το στον υπολογιστή σου</a></p>
 
 <p>Σύνδεσμοι:</p>
 
@@ -124,9 +124,7 @@
 				<dc:creator>Kostas Bariotis</dc:creator>
         <content:encoded>
         <![CDATA[
-            <p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" target="_blank">Κατέβασε το στον υπολογιστή σου</a></p>
-
-<p>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα
+            <p>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα
 διαχείρισης της Development ομάδας μας.</p>
 
 <p>Ο Πάτροκλος είναι Software Engineering Manager με πολυετή εμπειρία και πιστεύω
@@ -137,6 +135,8 @@
 <p>Μιλάμε επίσης για την καθημερινότητα ενός Manager, τις Agile
 μεθοδολογίες και τα meetings. Tι μαθαίνουμε απο τις τεχνικές που μας προτείνουν
 οι μεγάλοι οργανισμοί και τι κάνουμε με το τεχνικό χρέος!</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" target="_blank">Κατέβασε το στον υπολογιστή σου</a></p>
 
 <p>Σύνδεσμοι:</p>
 
@@ -193,10 +193,7 @@
 				<dc:creator>Kostas Bariotis</dc:creator>
         <content:encoded>
         <![CDATA[
-            <p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3"
- target="_blank">Κατέβασε το στον υπολογιστή σου</a></p>
-
-<p>Γνώρισα τον Θανάση το 2014 όταν η τεχνολογική κοινότητα της Θεσσαλονίκης δεν
+            <p>Γνώρισα τον Θανάση το 2014 όταν η τεχνολογική κοινότητα της Θεσσαλονίκης δεν
 είχε πάρει ακόμη την σημερινή της μορφή. Δεν άργησαν τα ταιριάξουν τα χνώτα μας
 και δεν χάνω ευκαιρία σε κάθε συνάντηση μας να πάρω την άποψη του για κάποιο
 προβληματισμό μου.</p>
@@ -207,6 +204,9 @@
 <p>Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την
 κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται
 με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3"
+ target="_blank">Κατέβασε το στον υπολογιστή σου</a></p>
 
 <p>Σύνδεσμοι:</p>
 
