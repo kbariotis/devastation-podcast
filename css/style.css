@@ -221,7 +221,7 @@ header {
  **************************************************/
 
 .post-item {
-  padding: 100px;
+  padding: 20px 100px 100px;
   /*padding: 100px;*/
   background: #f5f5f5;
   margin-bottom: 50px;
