@@ -26,7 +26,7 @@ summary: "Σε αυτό το επεισόδιο συζητάμε περι ανέ
 με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.
 
 <a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3"
- target="_blank">Κατέβασε το στον υπολογιστή σου</a>
+ target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a>
 
 Σύνδεσμοι:
 

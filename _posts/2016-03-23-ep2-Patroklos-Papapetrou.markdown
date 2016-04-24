@@ -26,7 +26,7 @@ Manager με πολυετή εμπειρία και πιστεύω πως είν
 μεθοδολογίες και τα meetings. Tι μαθαίνουμε απο τις τεχνικές που μας προτείνουν
 οι μεγάλοι οργανισμοί και τι κάνουμε με το τεχνικό χρέος!
 
-<a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" target="_blank">Κατέβασε το στον υπολογιστή σου</a>
+<a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a>
 
 Σύνδεσμοι:
 
