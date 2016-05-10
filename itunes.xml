@@ -8,8 +8,8 @@
     <link>http://devastation.tv</link>
     <language>el-gr</language>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Tue, 10 May 2016 23:45:57 GMT</pubDate>
-    <lastBuildDate>Tue, 10 May 2016 23:45:57 GMT</lastBuildDate>
+    <pubDate>Tue, 10 May 2016 23:52:11 GMT</pubDate>
+    <lastBuildDate>Tue, 10 May 2016 23:52:11 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
@@ -34,7 +34,7 @@
       	<pubDate>Tue, 10 May 2016 00:00:00 GMT</pubDate>
       	<itunes:duration>49:25</itunes:duration>
         <itunes:keywords>
-          Cloud,Scaling,AWS,
+          Cloud Infrastructure,Scaling,AWS,
         </itunes:keywords>
       	<itunes:explicit>no</itunes:explicit>
       </item>

@@ -19,8 +19,8 @@
     <managingEditor>konmpar@gmail.com</managingEditor>
     <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Tue, 10 May 2016 23:45:57 GMT</pubDate>
-    <lastBuildDate>Tue, 10 May 2016 23:45:57 GMT</lastBuildDate>
+    <pubDate>Tue, 10 May 2016 23:52:11 GMT</pubDate>
+    <lastBuildDate>Tue, 10 May 2016 23:52:11 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -75,6 +75,7 @@ tricks απο την εμπειρία μας.</p>
 <p>Σύνδεσμοι:</p>
 
 <ul>
+<li><a href="https://gr.linkedin.com/in/kostantinosmargaritis" target="_blank">Kwstas Margaritis</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Cloud_computing/" target="_blank">Cloud Computing at Wikipedia</a></li>
 <li><a href="https://aws.amazon.com/" target="_blank">Amazon AWS</a></li>
 <li><a href="https://www.goodvid.io/" target="_blank">Goodvidio</a></li>
@@ -102,14 +103,14 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
 				</itunes:summary>
         <itunes:duration>49:25</itunes:duration>
 				
-				<category><![CDATA[Cloud]]></category>
+				<category><![CDATA[Cloud Infrastructure]]></category>
 				
 				<category><![CDATA[Scaling]]></category>
 				
 				<category><![CDATA[AWS]]></category>
 				
         <itunes:keywords>
-          Cloud,Scaling,AWS,
+          Cloud Infrastructure,Scaling,AWS,
         </itunes:keywords>
         <itunes:image href="http://devastation.tv/img/thess.jpg"/>
         <itunes:explicit>no</itunes:explicit>
