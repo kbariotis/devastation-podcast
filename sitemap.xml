@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://devastation.tv/2016/05/10/ep4-Kwstas-Margaritis/</loc>
+<lastmod>2016-05-10T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://devastation.tv/2016/04/21/ep3-Stavros-Korokithakis/</loc>
 <lastmod>2016-04-21T00:00:00+03:00</lastmod>
 </url>
@@ -41,5 +45,14 @@
 </url>
 <url>
 <loc>http://devastation.tv/tag/Code%2520Quality/</loc>
+</url>
+<url>
+<loc>http://devastation.tv/tag/Cloud/</loc>
+</url>
+<url>
+<loc>http://devastation.tv/tag/Scaling/</loc>
+</url>
+<url>
+<loc>http://devastation.tv/tag/AWS/</loc>
 </url>
 </urlset>

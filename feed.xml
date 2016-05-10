@@ -19,8 +19,8 @@
     <managingEditor>konmpar@gmail.com</managingEditor>
     <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Sun, 24 Apr 2016 15:43:41 GMT</pubDate>
-    <lastBuildDate>Sun, 24 Apr 2016 15:43:41 GMT</lastBuildDate>
+    <pubDate>Tue, 10 May 2016 23:45:57 GMT</pubDate>
+    <lastBuildDate>Tue, 10 May 2016 23:45:57 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -43,6 +43,77 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+        <title><![CDATA[Επ. 4 - Κώστας Μαργαρίτης - Infrastructure in the Cloud]]></title>
+        <link>http://devastation.tv/2016/05/10/ep4-Kwstas-Margaritis/</link>
+        <pubDate>Tue, 10 May 2016 00:00:00 GMT</pubDate>
+        <description></description>
+        <guid isPermaLink="true">http://devastation.tv/2016/05/10/ep4-Kwstas-Margaritis/</guid>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/margaritis.mp3" length="47446308" type="audio/mpeg"/>
+        <itunes:author>Kostas Bariotis</itunes:author>
+				<dc:creator>Kostas Bariotis</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            <p>Τέταρτο επισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το
+πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο
+Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο
+3 επίσοδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.</p>
+
+<p>Δίνουμε παραδείγματα απο AWS και με αναφορές στην αρχιτεκτονική της Goodvidio
+κάνουμε μια συζήτηση για θέματα που συναντάει κάποιος όταν κάνει το βήμα να
+μεταφερθεί σ&#39;ένα Cloud περιβάλλον.</p>
+
+<p>Συζητάμε για το πώς κάνουμε host specific platform applications με το
+ElasticBeanstalk και πως μας βοηθάει το S3. Επίσης, EC2 container service και
+serverless applications με το AWS Lambda, τι είναι και πως τα χρησιμοποιούμε.
+Security, horizontal και auto scaling, εξισορρόπηση κόστους και μερικά tips και
+tricks απο την εμπειρία μας.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/margaritis.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Cloud_computing/" target="_blank">Cloud Computing at Wikipedia</a></li>
+<li><a href="https://aws.amazon.com/" target="_blank">Amazon AWS</a></li>
+<li><a href="https://www.goodvid.io/" target="_blank">Goodvidio</a></li>
+<li><a href="https://blog.codingoutloud.com/2010/07/27/three-types-of-scaling-in-the-cloud-scale-up-scale-out-and-now-scale-side-by-side-with-juxtaposition-scaling/" target="_blank">Three Types of Scaling in the Cloud: Scale Up, Scale Out, and now Scale Side-by-Side (with Juxtaposition Scaling)</a></li>
+<li><a href="https://www.heroku.com/" target="_blank">Heroku</a></li>
+<li><a href="https://linode.com/" target="_blank">Linode</a></li>
+<li><a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το τέταρτο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+
+        ]]>
+        </content:encoded>
+				<description>
+					Τέταρτο επισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο 3 επίσοδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.
+				</description>
+				<itunes:subtitle>
+					Τέταρτο επισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο 3 επίσοδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.
+				</itunes:subtitle>
+				<itunes:summary>
+					Τέταρτο επισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο 3 επίσοδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.
+				</itunes:summary>
+        <itunes:duration>49:25</itunes:duration>
+				
+				<category><![CDATA[Cloud]]></category>
+				
+				<category><![CDATA[Scaling]]></category>
+				
+				<category><![CDATA[AWS]]></category>
+				
+        <itunes:keywords>
+          Cloud,Scaling,AWS,
+        </itunes:keywords>
+        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
         <title><![CDATA[Επ. 3 - Σταύρος Κοροκυθάκης - Testing]]></title>
