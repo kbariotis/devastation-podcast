@@ -8,8 +8,8 @@
     <link>http://devastation.tv</link>
     <language>el-gr</language>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Tue, 10 May 2016 23:53:24 GMT</pubDate>
-    <lastBuildDate>Tue, 10 May 2016 23:53:24 GMT</lastBuildDate>
+    <pubDate>Wed, 11 May 2016 12:32:46 GMT</pubDate>
+    <lastBuildDate>Wed, 11 May 2016 12:32:46 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
@@ -27,7 +27,7 @@
       <item>
       	<title><![CDATA[Επ. 4 - Κώστας Μαργαρίτης - Infrastructure in the Cloud]]></title>
       	<itunes:author>Kostas Bariotis</itunes:author>
-        <itunes:subtitle>Τέταρτο επισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο 3 επίσοδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.</itunes:subtitle>
+        <itunes:subtitle>Τέταρτο επεισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο 3 επεισόδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.</itunes:subtitle>
       	<description><![CDATA[]]></description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/margaritis.mp3" length="47446308" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/05/10/ep4-Kwstas-Margaritis/</guid>
