@@ -19,8 +19,8 @@
     <managingEditor>konmpar@gmail.com</managingEditor>
     <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Wed, 11 May 2016 12:32:46 GMT</pubDate>
-    <lastBuildDate>Wed, 11 May 2016 12:32:46 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jun 2016 09:52:53 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jun 2016 09:52:53 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -43,6 +43,79 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+        <title><![CDATA[Επ. 5 - Θάνος Θεοδωρίδης - Remote Working]]></title>
+        <link>http://devastation.tv/2016/06/03/ep5-Thanos-Theodoridis/</link>
+        <pubDate>Fri, 03 Jun 2016 00:00:00 GMT</pubDate>
+        <description></description>
+        <guid isPermaLink="true">http://devastation.tv/2016/06/03/ep5-Thanos-Theodoridis/</guid>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/005-thanos-remote-working.mp3" length="39022341" type="audio/mpeg"/>
+        <itunes:author>Kostas Bariotis</itunes:author>
+				<dc:creator>Kostas Bariotis</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            <p>Τον έπρηζα, πριν ένα χρόνο περίπου, να ξεκινήσουμε ένα ελληνικό podcast για
+Developers αλλα δεν ανταποκρινόταν. Εν τέλει το ξεκίνησα μόνος μου όμως του
+έκλεψα την ιδέα του για το όνομα. Ο Θάνος είναι φίλος, περιστασιακός συνεργάτης
+και συνάδελφος κι οι απόψεις του με βάζουν πάντα σε σκέψεις.</p>
+
+<p>Τον είδα να σχεδιάζει μακέτες για το Web, σχεδίασε το blog μου, τον είδα να
+γράφει REST APIs για να σερβίρει τα iOS applications του, τον είδα να κάνει
+δειλά βήματα για να ξεκινήσει του δικό του SaaS business. Η παραγωγικότητα του
+πάντα με συνάρπαζε.</p>
+
+<p>Ο Θάνος δουλεύει remotely. Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι
+είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και
+διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να
+μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS
+Development και Swift.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/005-thanos-remote-working.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="http://attheo.do" target="_blank">Thanos Theodoridis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Telecommuting" target="_blank">Remote Working at Wikipedia</a></li>
+<li><a href="https://37signals.com/remote" target="_blank">Remote - Office not required</a></li>
+<li><a href="https://open.buffer.com/distributed-team-benefits/" target="_blank">The Joys and Benefits of Working as a Distributed Team</a></li>
+<li><a href="http://weworkremotely.com" target="_blank">We Work Remotely</a></li>
+<li><a href="https://angel.co/jobs" target="_blank">Angel.co Jobs</a></li>
+<li><a href="http://careers.stackoverflow.com/" target="_blank">Stackoverflow Careers</a></li>
+<li><a href="https://developer.apple.com/swift/" target="_blank">Swift Lang</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το πέμπτο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+
+        ]]>
+        </content:encoded>
+				<description>
+					Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS και Swift.
+				</description>
+				<itunes:subtitle>
+					Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS και Swift.
+				</itunes:subtitle>
+				<itunes:summary>
+					Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS και Swift.
+				</itunes:summary>
+        <itunes:duration>40:25</itunes:duration>
+				
+				<category><![CDATA[Remote Working]]></category>
+				
+				<category><![CDATA[iOS]]></category>
+				
+				<category><![CDATA[Swift]]></category>
+				
+        <itunes:keywords>
+          Remote Working,iOS,Swift,
+        </itunes:keywords>
+        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
         <title><![CDATA[Επ. 4 - Κώστας Μαργαρίτης - Infrastructure in the Cloud]]></title>

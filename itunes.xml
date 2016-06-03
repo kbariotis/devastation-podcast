@@ -8,8 +8,8 @@
     <link>http://devastation.tv</link>
     <language>el-gr</language>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Wed, 11 May 2016 12:32:46 GMT</pubDate>
-    <lastBuildDate>Wed, 11 May 2016 12:32:46 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jun 2016 09:52:53 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jun 2016 09:52:53 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
@@ -23,6 +23,21 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+      	<title><![CDATA[Επ. 5 - Θάνος Θεοδωρίδης - Remote Working]]></title>
+      	<itunes:author>Kostas Bariotis</itunes:author>
+        <itunes:subtitle>Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS και Swift.</itunes:subtitle>
+      	<description><![CDATA[]]></description>
+      	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/005-thanos-remote-working.mp3" length="39022341" type="audio/mpeg"/>
+      	<guid isPermaLink="true">http://devastation.tv/2016/06/03/ep5-Thanos-Theodoridis/</guid>
+      	<pubDate>Fri, 03 Jun 2016 00:00:00 GMT</pubDate>
+      	<itunes:duration>40:25</itunes:duration>
+        <itunes:keywords>
+          Remote Working,iOS,Swift,
+        </itunes:keywords>
+      	<itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
       	<title><![CDATA[Επ. 4 - Κώστας Μαργαρίτης - Infrastructure in the Cloud]]></title>
