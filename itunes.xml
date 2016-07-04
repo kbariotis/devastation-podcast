@@ -8,8 +8,8 @@
     <link>http://devastation.tv</link>
     <language>el-gr</language>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Fri, 03 Jun 2016 09:52:53 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jun 2016 09:52:53 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Jul 2016 11:00:48 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2016 11:00:48 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
@@ -23,6 +23,21 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+      	<title><![CDATA[Επ. 6 - Δημήτρης Μιχαλάκος - REST APIs]]></title>
+      	<itunes:author>Kostas Bariotis</itunes:author>
+        <itunes:subtitle>Του αρέσει η JavaScript και ψάχνεται συνέχεια με καινούρια εργαλεία. Σε αυτό το επεισόδιο μιλάμε για REST APIs. Τι είναι και πως τα χρησιμοποιεί η ομάδα του Δημήτρη. Κοινές και καλές πρακτικές που εξάγαμε μέσα απο την εμπειρία μας. Αγαπημένα μας εργαλεία για documentation και APIs που χρησιμοποιούμε σα πρότυπα. Τέλος, μιλάμε για GraphQL και πως συνδεέται με τα REST APIs.</itunes:subtitle>
+      	<description><![CDATA[]]></description>
+      	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006.michalakos-rest-apis.mp3" length="42178351" type="audio/mpeg"/>
+      	<guid isPermaLink="true">http://devastation.tv/2016/07/04/ep6-Dimitris-Michalakos/</guid>
+      	<pubDate>Mon, 04 Jul 2016 00:00:00 GMT</pubDate>
+      	<itunes:duration>43:56</itunes:duration>
+        <itunes:keywords>
+          REST,APIs,GraphQL,
+        </itunes:keywords>
+      	<itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
       	<title><![CDATA[Επ. 5 - Θάνος Θεοδωρίδης - Remote Working]]></title>

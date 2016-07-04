@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://devastation.tv/2016/07/04/ep6-Dimitris-Michalakos/</loc>
+<lastmod>2016-07-04T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://devastation.tv/2016/06/03/ep5-Thanos-Theodoridis/</loc>
 <lastmod>2016-06-03T00:00:00+03:00</lastmod>
 </url>
@@ -67,5 +71,14 @@
 </url>
 <url>
 <loc>http://devastation.tv/tag/Swift/</loc>
+</url>
+<url>
+<loc>http://devastation.tv/tag/REST/</loc>
+</url>
+<url>
+<loc>http://devastation.tv/tag/APIs/</loc>
+</url>
+<url>
+<loc>http://devastation.tv/tag/GraphQL/</loc>
 </url>
 </urlset>
