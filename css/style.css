@@ -332,10 +332,11 @@ header {
 .post-item.no-header .post-body {
   padding-top: 0;
 }
-#blog-pagination {
-  width: 100%;
-  padding: 20px;
-  background: #dedede;
+#blog-pagination {  
+  padding: 50px;
+  background: #f5f5f5;
+  margin-bottom: 50px;
+  border-bottom: 2px solid #8ab2ff;
   text-align: center;
 }
 #blog-pagination ul {
@@ -439,7 +440,6 @@ header {
 
 .subscribe {
   padding: 50px;
-  /*padding: 100px;*/
   background: #f5f5f5;
   margin-bottom: 50px;
   border-bottom: 2px solid #8ab2ff;
