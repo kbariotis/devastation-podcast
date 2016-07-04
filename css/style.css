@@ -332,11 +332,11 @@ header {
 .post-item.no-header .post-body {
   padding-top: 0;
 }
-#blog-pagination {  
-  padding: 50px;
-  background: #f5f5f5;
+#blog-pagination {
+  padding: 20px;
+  /*background: #f5f5f5;
   margin-bottom: 50px;
-  border-bottom: 2px solid #8ab2ff;
+  border-bottom: 2px solid #8ab2ff;*/
   text-align: center;
 }
 #blog-pagination ul {
