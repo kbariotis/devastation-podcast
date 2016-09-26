@@ -8,8 +8,8 @@
     <link>http://devastation.tv</link>
     <language>el-gr</language>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Mon, 04 Jul 2016 11:54:20 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Jul 2016 11:54:20 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2016 00:55:26 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2016 00:55:26 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
@@ -23,6 +23,21 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+      	<title><![CDATA[Επ. 7 - Γιώργος Κράβας - Reactive X]]></title>
+      	<itunes:author>Kostas Bariotis</itunes:author>
+        <itunes:subtitle>Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. Mobile developer και δημιουργός του efood mobile app, μας μιλάει για το Reactive X. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο George το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα συνεργαζόμασταν!</itunes:subtitle>
+      	<description><![CDATA[]]></description>
+      	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006-kravas-reactive-x.mp3" length="27928868" type="audio/mpeg"/>
+      	<guid isPermaLink="true">http://devastation.tv/2016/09/26/ep7-George-Kravas/</guid>
+      	<pubDate>Mon, 26 Sep 2016 00:00:00 GMT</pubDate>
+      	<itunes:duration>29:06</itunes:duration>
+        <itunes:keywords>
+          Reactive X,Functional Reactive Programming,Android,
+        </itunes:keywords>
+      	<itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
       	<title><![CDATA[Επ. 6 - Δημήτρης Μιχαλάκος - REST APIs]]></title>

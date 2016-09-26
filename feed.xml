@@ -19,8 +19,8 @@
     <managingEditor>konmpar@gmail.com</managingEditor>
     <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Mon, 04 Jul 2016 11:54:20 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Jul 2016 11:54:20 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2016 00:55:26 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2016 00:55:26 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -43,6 +43,77 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+        <title><![CDATA[Επ. 7 - Γιώργος Κράβας - Reactive X]]></title>
+        <link>http://devastation.tv/2016/09/26/ep7-George-Kravas/</link>
+        <pubDate>Mon, 26 Sep 2016 00:00:00 GMT</pubDate>
+        <description></description>
+        <guid isPermaLink="true">http://devastation.tv/2016/09/26/ep7-George-Kravas/</guid>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006-kravas-reactive-x.mp3" length="27928868" type="audio/mpeg"/>
+        <itunes:author>Kostas Bariotis</itunes:author>
+				<dc:creator>Kostas Bariotis</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            <p>Το πρότυπο Reactive X στηρίζεται στις αρχές του Reactive Programming κι έχει 
+γνωρίσει μεγάλο adoption τα τελεταία χρόνια. Έχει υλοποιηθεί σε πάρα πολλές 
+γλώσσες και χρησιμοποιηθεί απο μεγάλες ομάδες. Στο έβδομο επεισόδιο με 
+επισκέπτεται ο Γιώργος για να μου εξηγήσει περισσότερα.</p>
+
+<p>Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. 
+Mobile developer, απο τους πρώτους του γνωστού e-FOOD mobile app και πρώην 
+μέλος των Venture Geeks. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο 
+Γιώργος το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα 
+συνεργαζόμασταν! </p>
+
+<p>Το Reactive X στηρίζετε στην λιτότητα και στον ασυγχρονισμό. Χρησιμοποιώντας
+γνωστά patterns και principles έχει καταφέρει να χρησιμοποιηθεί σε μεγάλα projects
+και οργανισμούς. Μιλάμε για τα core features του, την ιστορία του και τις περιοχές 
+εφαρμογής του.</p>
+
+<p><a href="httpshttps://s3-eu-west-1.amazonaws.com/devastation-podcast/006-kravas-reactive-x.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://gr.linkedin.com/in/george-kravas-2829461b" target="_blank">George Kravas</a></li>
+<li><a href="https://reactivex.io" target="_blank">Reactive X</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Reactive_programming" target="_blank">Reactive Programming on Wikipedia</a></li>
+<li><a href="http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming" target="_blank">What is functional reactive programming - Stack Overflow</a></li>
+<li><a href="https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc#.tkyszodaf" target="_blank">What is reactive programming - Medium</a></li>
+<li><a href="https://gist.github.com/staltz/868e7e9bc2a7b8c1f754" target="_blank">The introduction to Reactive Programming you&#39;ve been missing</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το έβδομο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+
+        ]]>
+        </content:encoded>
+				<description>
+					Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. Mobile developer και δημιουργός του efood mobile app, μας μιλάει για το Reactive X. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο George το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα συνεργαζόμασταν!
+				</description>
+				<itunes:subtitle>
+					Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. Mobile developer και δημιουργός του efood mobile app, μας μιλάει για το Reactive X. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο George το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα συνεργαζόμασταν!
+				</itunes:subtitle>
+				<itunes:summary>
+					Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. Mobile developer και δημιουργός του efood mobile app, μας μιλάει για το Reactive X. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο George το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα συνεργαζόμασταν!
+				</itunes:summary>
+        <itunes:duration>29:06</itunes:duration>
+				
+				<category><![CDATA[Reactive X]]></category>
+				
+				<category><![CDATA[Functional Reactive Programming]]></category>
+				
+				<category><![CDATA[Android]]></category>
+				
+        <itunes:keywords>
+          Reactive X,Functional Reactive Programming,Android,
+        </itunes:keywords>
+        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
         <title><![CDATA[Επ. 6 - Δημήτρης Μιχαλάκος - REST APIs]]></title>
