@@ -35,11 +35,11 @@ open source θα σε απελευθερώσει!"
 * <a href="http://dandreadis.blogspot.gr" target="_blank">Dimitris Andreadis on Blogspot</a>
 * <a href="https://www.linkedin.com/in/dandreadis" target="_blank">Dimitris Andreadis on Linkedin</a>
 * <a href="http://www.slideshare.net/dandreadis" target="_blank">Dimitris Andreadis on SlideShare</a>
-* <a href="http://wildfly.org" target="_blank">Wildfly</a>
-* <a href="https://en.wikipedia.org/wiki/Open_Source" target="_blank">Open Source on Wikipedia</a>
 * <a href="http://dandreadis.blogspot.cz/2014/10/10-years-on-red-pill.html" target="_blank">10 years on the red pill</a>
 * <a href="http://www.slideshare.net/dandreadis/devoxx-ignite-dimitrisandreadis7secretsofsuccessfulopensourcedevelopers" target="_blank">Secrets of Successful OpenSource Developers</a>
-* <a href="http://voxxeddays.com/thessaloniki/ target="_blank">VOXXED Days Thessaloniki</a>
+* <a href="http://voxxeddays.com/thessaloniki/" target="_blank">VOXXED Days Thessaloniki</a>
+* <a href="http://wildfly.org" target="_blank">Wildfly</a>
+* <a href="https://en.wikipedia.org/wiki/Open_Source" target="_blank">Open Source on Wikipedia</a>
 
 <br/>
 <br/>
