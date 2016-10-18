@@ -19,8 +19,8 @@
     <managingEditor>konmpar@gmail.com</managingEditor>
     <webMaster>konmpar@gmail.com</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Mon, 17 Oct 2016 20:31:25 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2016 20:31:25 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2016 00:01:40 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2016 00:01:40 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -43,6 +43,75 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+        <title><![CDATA[Επ. 8 - Δημήτρης Ανδρεάδης - Το open source απελευθερώνει]]></title>
+        <link>http://devastation.tv/2016/10/19/ep8-Dimitris-Andreadis/</link>
+        <pubDate>Wed, 19 Oct 2016 00:00:00 GMT</pubDate>
+        <description></description>
+        <guid isPermaLink="true">http://devastation.tv/2016/10/19/ep8-Dimitris-Andreadis/</guid>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/008-dandreadis-open-source-will-set-you-free.mp3" length="49487621" type="audio/mpeg"/>
+        <itunes:author>Kostas Bariotis</itunes:author>
+				<dc:creator>Kostas Bariotis</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            <p>Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης 
+Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια.
+Γράφει κώδικα τις τελευταίες δύο δεκαετίες και όταν μου έλεγε πως το open source 
+του άλλαξε την ζωή, το εννούσε.</p>
+
+<p>Μιλάμε για Wildfly, το open source middleware product της Redhat το οποίο οδηγεί 
+και για την καινούρια έκδοση η οποία είναι σχεδιασμένη για την κατασκευή modular 
+συστημάτων. Μιλάμε επίσης για την εμπειρία της διαχείρισης ενος τέτοιου project και τις 
+διαδικασίες που ακολουθούνται. </p>
+
+<p>Τέλος, αναλύουμε την σημασία της ενασχόλησης με το open source τόσο απο οργανισμούς 
+και εταιρίες αλλα και απο μεμονομένα άτομα. Τις συνήθειες των επιτυχημένων προγραμματιστών 
+και γιατί το open source θα σε απελευθερώσει!</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/008-dandreadis-open-source-will-set-you-free.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="http://dandreadis.blogspot.gr" target="_blank">Dimitris Andreadis on Blogspot</a></li>
+<li><a href="https://www.linkedin.com/in/dandreadis" target="_blank">Dimitris Andreadis on Linkedin</a></li>
+<li><a href="http://www.slideshare.net/dandreadis" target="_blank">Dimitris Andreadis on SlideShare</a></li>
+<li><a href="http://wildfly.org" target="_blank">Wildfly</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open_Source" target="_blank">Open Source on Wikipedia</a></li>
+<li><a href="http://dandreadis.blogspot.cz/2014/10/10-years-on-red-pill.html" target="_blank">10 years on the red pill</a></li>
+<li><a href="http://www.slideshare.net/dandreadis/devoxx-ignite-dimitrisandreadis7secretsofsuccessfulopensourcedevelopers" target="_blank">Secrets of Successful OpenSource Developers</a></li>
+<li><a href="http://voxxeddays.com/thessaloniki/ target="_blank">VOXXED Days Thessaloniki</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το όγδοο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+
+        ]]>
+        </content:encoded>
+				<description>
+					Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια. Γράφει κώδικα τις τελευταίες δύο δεκαετίες και όταν μου έλεγε πως το open source του άλλαξε την ζωή, το εννούσε. Μιλάμε για JBoss/Wildfly και το πως και γιατί το open source θα σε απελευθερώσει!
+				</description>
+				<itunes:subtitle>
+					Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια. Γράφει κώδικα τις τελευταίες δύο δεκαετίες και όταν μου έλεγε πως το open source του άλλαξε την ζωή, το εννούσε. Μιλάμε για JBoss/Wildfly και το πως και γιατί το open source θα σε απελευθερώσει!
+				</itunes:subtitle>
+				<itunes:summary>
+					Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια. Γράφει κώδικα τις τελευταίες δύο δεκαετίες και όταν μου έλεγε πως το open source του άλλαξε την ζωή, το εννούσε. Μιλάμε για JBoss/Wildfly και το πως και γιατί το open source θα σε απελευθερώσει!
+				</itunes:summary>
+        <itunes:duration>51:12</itunes:duration>
+				
+				<category><![CDATA[Open source]]></category>
+				
+				<category><![CDATA[Wildfly]]></category>
+				
+        <itunes:keywords>
+          Open source,Wildfly,
+        </itunes:keywords>
+        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
         <title><![CDATA[Επ. 7 - Γιώργος Κράβας - Reactive X]]></title>

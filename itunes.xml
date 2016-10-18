@@ -8,8 +8,8 @@
     <link>http://devastation.tv</link>
     <language>el-gr</language>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Mon, 17 Oct 2016 20:31:25 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2016 20:31:25 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2016 00:01:40 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2016 00:01:40 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
@@ -23,6 +23,21 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+      	<title><![CDATA[Επ. 8 - Δημήτρης Ανδρεάδης - Το open source απελευθερώνει]]></title>
+      	<itunes:author>Kostas Bariotis</itunes:author>
+        <itunes:subtitle>Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια. Γράφει κώδικα τις τελευταίες δύο δεκαετίες και όταν μου έλεγε πως το open source του άλλαξε την ζωή, το εννούσε. Μιλάμε για JBoss/Wildfly και το πως και γιατί το open source θα σε απελευθερώσει!</itunes:subtitle>
+      	<description><![CDATA[]]></description>
+      	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/008-dandreadis-open-source-will-set-you-free.mp3" length="49487621" type="audio/mpeg"/>
+      	<guid isPermaLink="true">http://devastation.tv/2016/10/19/ep8-Dimitris-Andreadis/</guid>
+      	<pubDate>Wed, 19 Oct 2016 00:00:00 GMT</pubDate>
+      	<itunes:duration>51:12</itunes:duration>
+        <itunes:keywords>
+          Open source,Wildfly,
+        </itunes:keywords>
+      	<itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
       	<title><![CDATA[Επ. 7 - Γιώργος Κράβας - Reactive X]]></title>
