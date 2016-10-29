@@ -36,11 +36,6 @@ layout: default
           {{ page.content | markdownify }}
         </div>
       </div>
-      <div class="post-tags">
-        <i class="fa fa-tags"></i> {% for tag in page.tags %}
-        <a class="tag_list_link" href="{{site.url}}/tag/{{ tag }}">{{ tag }}</a>
-        <span class="seperator">,</span> {% endfor %}
-      </div>
       <ul class="post-socials">
         <li>
           <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}&t={{page.title}}" target="_blank">
@@ -63,6 +58,11 @@ layout: default
           </a>
         </li>
       </ul>
+      <div class="post-tags">
+        <i class="fa fa-tags"></i> {% for tag in page.tags %}
+        <a class="tag_list_link" href="{{site.url}}/tag/{{ tag }}">{{ tag }}</a>
+        <span class="seperator">,</span> {% endfor %}
+      </div>
       <div id="disqus_thread"></div>
       <script>
       var disqus_config = function () {

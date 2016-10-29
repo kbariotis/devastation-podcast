@@ -56,9 +56,11 @@ title: Devastation Podcast - Το podcast για developers
                     {{ post.excerpt }}
                 </div>
             </div>
-            <a href="{{ post.url }}" class="post-more">Άκουσε το</a>
+            <div class="post-more-container">
+              <a href="{{ post.url }}" class="post-more">Άκουσε το</a>
+            </div>
 
-            <ul class="post-socials">
+            <!-- <ul class="post-socials">
               <li>
                 <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{post.url}}&t={{post.title}}" target="_blank">
                   <i class="fa fa-facebook"></i>
@@ -79,7 +81,7 @@ title: Devastation Podcast - Το podcast για developers
                   <i class="fa fa-linkedin"></i>
                 </a>
               </li>
-            </ul>
+             --></ul>
         </div>
         {% endfor %}
 
