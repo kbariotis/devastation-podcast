@@ -26,5 +26,21 @@ azee - Minimal Blog theme for Jekyll  main JS file
     audiojs.events.ready(function() {
       audiojs.createAll();
     });
-    
+
+    /**
+     * @see  https://developers.google.com/web/updates/2016/10/navigator-share
+     */
+    $('.post-socials li a').on('click', function() {
+
+        if (navigator.share !== undefined) {
+            navigator.share({
+                title: document.title,
+                url: window.location.href
+            });
+            return false;
+        } else {
+            return true;
+        }
+    });
+
  })(jQuery);
