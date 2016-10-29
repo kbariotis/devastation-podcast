@@ -739,6 +739,10 @@ blockquote {
     padding-top:  20px;
     padding-bottom:  50px;
   }
+
+  #contact-content {
+    padding: 66px 40px;
+  }
 }
 
 .fa.fa-facebook {
