@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss
   version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Devastation Podcast</title>
     <description>Devastation Podcast - Το Podcast για Developers</description>
     <link>http://devastation.tv</link>
     <language>el-gr</language>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Sun, 30 Oct 2016 23:27:22 GMT</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 23:27:22 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2016 23:31:43 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2016 23:31:43 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
@@ -62,8 +63,7 @@
 <br/>
 <strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το όγδοο επεισόδιο του Devastation
 Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
- ]]>
-            </content:encoded>
+ ]]></content:encoded>
             <description>Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια. Ασχολείται με ανάπτυξη λογισμικού τις τελευταίες δύο δεκαετίες και όταν μου έλεγε πως το open source του άλλαξε την ζωή, το εννούσε. Μιλάμε για JBoss/Wildfly και το πως και γιατί το open source θα σε απελευθερώσει!</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/008-dandreadis-open-source-will-set-you-free.mp3" length="49487621" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/10/19/ep8-Dimitris-Andreadis/</guid>
@@ -112,8 +112,7 @@ Mobile developer, απο τους πρώτους του γνωστού e-FOOD mo
 <br/>
 <strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το έβδομο επεισόδιο του Devastation
 Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
- ]]>
-            </content:encoded>
+ ]]></content:encoded>
             <description>Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. Mobile developer και δημιουργός του efood mobile app, μας μιλάει για το Reactive X. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο George το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα συνεργαζόμασταν!</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006-kravas-reactive-x.mp3" length="27928868" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/09/26/ep7-George-Kravas/</guid>
@@ -168,8 +167,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
 <br/>
 <strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το έκτο επεισόδιο του Devastation
 Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
- ]]>
-            </content:encoded>
+ ]]></content:encoded>
             <description>Του αρέσει η JavaScript και ψάχνεται συνέχεια με καινούρια εργαλεία. Σε αυτό το επεισόδιο μιλάμε για REST APIs. Τι είναι και πως τα χρησιμοποιεί η ομάδα του Δημήτρη. Κοινές και καλές πρακτικές που εξάγαμε μέσα απο την εμπειρία μας. Αγαπημένα μας εργαλεία για documentation και APIs που χρησιμοποιούμε σα πρότυπα. Τέλος, μιλάμε για GraphQL και πως συνδεέται με τα REST APIs.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006.michalakos-rest-apis.mp3" length="42178351" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/07/04/ep6-Dimitris-Michalakos/</guid>
@@ -220,8 +218,7 @@ Development και Swift.</p>
 <br/>
 <strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το πέμπτο επεισόδιο του Devastation
 Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
- ]]>
-            </content:encoded>
+ ]]></content:encoded>
             <description>Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS και Swift.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/005-thanos-remote-working.mp3" length="39022341" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/06/03/ep5-Thanos-Theodoridis/</guid>
@@ -271,8 +268,7 @@ tricks απο την εμπειρία μας.</p>
 <br/>
 <strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το τέταρτο επεισόδιο του Devastation
 Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
- ]]>
-            </content:encoded>
+ ]]></content:encoded>
             <description>Τέταρτο επεισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο 3 επεισόδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/margaritis.mp3" length="47446308" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/05/10/ep4-Kwstas-Margaritis/</guid>
@@ -319,8 +315,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
 <br/>
 <strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το τρίτο επεισόδιο του Devastation Podcast με
 κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
- ]]>
-            </content:encoded>
+ ]]></content:encoded>
             <description>Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του για μια συζήτηση για Testing. Γράφει Python και Django και το testing είναι απο τις αγαπημένες ασχολίες του.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep3-stavros-testing.mp3" length="29854824" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/04/21/ep3-Stavros-Korokithakis/</guid>
@@ -367,8 +362,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
 <br/>
 <strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το δεύτερο επεισόδιο του Devastation Podcast με
 κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
- ]]>
-            </content:encoded>
+ ]]></content:encoded>
             <description>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα διαχείρισης της Development ομάδας μας. Ο Πάτροκλος είναι Software Engineering Manager με πολυετή εμπειρία και πιστεύω πως είναι ο κατάλληλος να απαντήσει στις ερωτήσεις μου περι Dev Team Management.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" length="45635291" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/03/23/ep2-Patroklos-Papapetrou/</guid>
@@ -417,8 +411,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
 <br/>
 <strong>θα χαιρόμουν πολύ εαν μοιραζόσασταν το πρώτο επεισόδιο του Devastation Podcast με
 κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
- ]]>
-            </content:encoded>
+ ]]></content:encoded>
             <description>Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3" length="37097221" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/</guid>
