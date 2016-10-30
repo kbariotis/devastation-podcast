@@ -8,8 +8,8 @@
     <link>http://devastation.tv</link>
     <language>el-gr</language>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Sat, 29 Oct 2016 04:26:38 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 04:26:38 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2016 23:27:22 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2016 23:27:22 GMT</lastBuildDate>
     <itunes:explicit>No</itunes:explicit>
     <itunes:subtitle>Devastation Podcast - Το Podcast για Developers</itunes:subtitle>
     <itunes:author>Kostas Bariotis</itunes:author>
@@ -27,120 +27,406 @@
       <item>
       	<title><![CDATA[Επ. 8 - Δημήτρης Ανδρεάδης - Το open source απελευθερώνει]]></title>
       	<itunes:author>Kostas Bariotis</itunes:author>
-        <itunes:subtitle>Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια. Ασχολείται με ανάπτυξη λογισμικού τις τελευταίες δύο δεκαετίες και όταν μου έλεγε πως το open source του άλλαξε την ζωή, το εννούσε. Μιλάμε για JBoss/Wildfly και το πως και γιατί το open source θα σε απελευθερώσει!</itunes:subtitle>
-      	<description><![CDATA[]]></description>
+            <itunes:subtitle>Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια. Ασχολείται με ανάπτυξη λογισμικού τις τελευταίες δύο δεκαετίες και όταν μου έλεγε πως το open source του άλλαξε την ζωή, το εννούσε. Μιλάμε για JBoss/Wildfly και το πως και γιατί το open source θα σε απελευθερώσει!</itunes:subtitle>
+      	<content:encoded><![CDATA[ <p>Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης 
+Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια.
+Ασχολείται με ανάπτυξη λογισμικού τις τελευταίες δύο δεκαετίες και όταν μου έλεγε 
+πως το open source του άλλαξε την ζωή, το εννούσε.</p>
+
+<p>Μιλάμε για Wildfly, το open source middleware product της Redhat το οποίο και οδηγεί. Η 
+καινούρια έκδοση που δουλεύουν είναι σχεδιασμένη για την κατασκευή modular 
+συστημάτων και θα μας πεί περισσότερα γι&#39;αυτήν στο επερχόμενο VOXXED Days Thessaloniki. 
+Μιλάμε επίσης για την εμπειρία της διαχείρισης ενος τέτοιου project και τις διαδικασίες 
+που ακολουθούνται. </p>
+
+<p>Τέλος, αναλύουμε την σημασία της ενασχόλησης με το open source τόσο απο οργανισμούς 
+και εταιρείες όσο και απο μεμονομένα άτομα. Τις συνήθειες των επιτυχημένων προγραμματιστών 
+και γιατί το open source θα σε απελευθερώσει!</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/008-dandreadis-open-source-will-set-you-free.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="http://dandreadis.blogspot.gr" target="_blank">Dimitris Andreadis on Blogspot</a></li>
+<li><a href="https://www.linkedin.com/in/dandreadis" target="_blank">Dimitris Andreadis on Linkedin</a></li>
+<li><a href="http://www.slideshare.net/dandreadis" target="_blank">Dimitris Andreadis on SlideShare</a></li>
+<li><a href="http://dandreadis.blogspot.cz/2014/10/10-years-on-red-pill.html" target="_blank">10 years on the red pill</a></li>
+<li><a href="http://www.slideshare.net/dandreadis/devoxx-ignite-dimitrisandreadis7secretsofsuccessfulopensourcedevelopers" target="_blank">Secrets of Successful OpenSource Developers</a></li>
+<li><a href="http://voxxeddays.com/thessaloniki/" target="_blank">VOXXED Days Thessaloniki</a></li>
+<li><a href="http://wildfly.org" target="_blank">Wildfly</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open_Source" target="_blank">Open Source on Wikipedia</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το όγδοο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+ ]]>
+            </content:encoded>
+            <description>Κάναμε δύο κλήσεις μέσω Skype και τις απόλαυσα πραγματικά και τις δυο. Ο Δημήτρης Ανδρεάδης είναι Senior Engineering Manager στην Redhat τα τελευταία δώδεκα χρόνια. Ασχολείται με ανάπτυξη λογισμικού τις τελευταίες δύο δεκαετίες και όταν μου έλεγε πως το open source του άλλαξε την ζωή, το εννούσε. Μιλάμε για JBoss/Wildfly και το πως και γιατί το open source θα σε απελευθερώσει!</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/008-dandreadis-open-source-will-set-you-free.mp3" length="49487621" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/10/19/ep8-Dimitris-Andreadis/</guid>
       	<pubDate>Wed, 19 Oct 2016 00:00:00 GMT</pubDate>
       	<itunes:duration>51:12</itunes:duration>
-        <itunes:keywords>
-          Open source,Wildfly,
-        </itunes:keywords>
+            <itunes:keywords>
+              Open source,Wildfly,
+            </itunes:keywords>
       	<itunes:explicit>no</itunes:explicit>
       </item>
     
       <item>
       	<title><![CDATA[Επ. 7 - Γιώργος Κράβας - Reactive X]]></title>
       	<itunes:author>Kostas Bariotis</itunes:author>
-        <itunes:subtitle>Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. Mobile developer και δημιουργός του efood mobile app, μας μιλάει για το Reactive X. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο George το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα συνεργαζόμασταν!</itunes:subtitle>
-      	<description><![CDATA[]]></description>
+            <itunes:subtitle>Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. Mobile developer και δημιουργός του efood mobile app, μας μιλάει για το Reactive X. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο George το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα συνεργαζόμασταν!</itunes:subtitle>
+      	<content:encoded><![CDATA[ <p>Το πρότυπο Reactive X στηρίζεται στις αρχές του Reactive Programming κι έχει 
+γνωρίσει μεγάλο adoption τα τελεταία χρόνια. Έχει υλοποιηθεί σε πάρα πολλές 
+γλώσσες και χρησιμοποιηθεί απο μεγάλες ομάδες. Στο έβδομο επεισόδιο με 
+επισκέπτεται ο Γιώργος για να μου εξηγήσει περισσότερα.</p>
+
+<p>Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. 
+Mobile developer, απο τους πρώτους του γνωστού e-FOOD mobile app και πρώην 
+μέλος των Venture Geeks. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο 
+Γιώργος το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα 
+συνεργαζόμασταν! </p>
+
+<p>Το Reactive X στηρίζετε στην λιτότητα και στον ασυγχρονισμό. Χρησιμοποιώντας
+γνωστά patterns και principles έχει καταφέρει να χρησιμοποιηθεί σε μεγάλα projects
+και οργανισμούς. Μιλάμε για τα core features του, την ιστορία του και τις περιοχές 
+εφαρμογής του.</p>
+
+<p><a href="httpshttps://s3-eu-west-1.amazonaws.com/devastation-podcast/006-kravas-reactive-x.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://gr.linkedin.com/in/george-kravas-2829461b" target="_blank">George Kravas</a></li>
+<li><a href="https://reactivex.io" target="_blank">Reactive X</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Reactive_programming" target="_blank">Reactive Programming on Wikipedia</a></li>
+<li><a href="http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming" target="_blank">What is functional reactive programming - Stack Overflow</a></li>
+<li><a href="https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc#.tkyszodaf" target="_blank">What is reactive programming - Medium</a></li>
+<li><a href="https://gist.github.com/staltz/868e7e9bc2a7b8c1f754" target="_blank">The introduction to Reactive Programming you&#39;ve been missing</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το έβδομο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+ ]]>
+            </content:encoded>
+            <description>Remote worker και αυτός και ενεργό μέλος της κοινότητας της Θεσσαλονίκης. Mobile developer και δημιουργός του efood mobile app, μας μιλάει για το Reactive X. Τον καιρό που εγώ πειραματειζόμουνα με το θέμα, ο George το παρουσίασε σε ένα τοπικό meetup. Αμέσως κατάλαβα πως θα συνεργαζόμασταν!</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006-kravas-reactive-x.mp3" length="27928868" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/09/26/ep7-George-Kravas/</guid>
       	<pubDate>Mon, 26 Sep 2016 00:00:00 GMT</pubDate>
       	<itunes:duration>29:06</itunes:duration>
-        <itunes:keywords>
-          Reactive X,Functional Reactive Programming,Android,
-        </itunes:keywords>
+            <itunes:keywords>
+              Reactive X,Functional Reactive Programming,Android,
+            </itunes:keywords>
       	<itunes:explicit>no</itunes:explicit>
       </item>
     
       <item>
       	<title><![CDATA[Επ. 6 - Δημήτρης Μιχαλάκος - REST APIs]]></title>
       	<itunes:author>Kostas Bariotis</itunes:author>
-        <itunes:subtitle>Του αρέσει η JavaScript και ψάχνεται συνέχεια με καινούρια εργαλεία. Σε αυτό το επεισόδιο μιλάμε για REST APIs. Τι είναι και πως τα χρησιμοποιεί η ομάδα του Δημήτρη. Κοινές και καλές πρακτικές που εξάγαμε μέσα απο την εμπειρία μας. Αγαπημένα μας εργαλεία για documentation και APIs που χρησιμοποιούμε σα πρότυπα. Τέλος, μιλάμε για GraphQL και πως συνδεέται με τα REST APIs.</itunes:subtitle>
-      	<description><![CDATA[]]></description>
+            <itunes:subtitle>Του αρέσει η JavaScript και ψάχνεται συνέχεια με καινούρια εργαλεία. Σε αυτό το επεισόδιο μιλάμε για REST APIs. Τι είναι και πως τα χρησιμοποιεί η ομάδα του Δημήτρη. Κοινές και καλές πρακτικές που εξάγαμε μέσα απο την εμπειρία μας. Αγαπημένα μας εργαλεία για documentation και APIs που χρησιμοποιούμε σα πρότυπα. Τέλος, μιλάμε για GraphQL και πως συνδεέται με τα REST APIs.</itunes:subtitle>
+      	<content:encoded><![CDATA[ <p>Συνδιοργανωτής κι αυτός αλλα σε άλλη πόλη! Διοργανώνει επιτυχώς τα τελευταία
+χρόνια το μεγαλύτερο Javascript meetup και σε κάθε τους συνάντηση μαζεύονται
+μέχρι και 100 άτομα! Γνώρισα τον Δημήτρη σε μια εξόρμηση μου στην συμπρωτεύουσα
+κι έτσι ξεκίνησε μια ωραία συνεργασία.</p>
+
+<p>Είναι Technology Manager σε εταιρεία με πολύ ενδιαφέρον αντικείμενο όπου
+αναλύουν τις τάσεις και μόδες της αγοράς των προγραμματιστών με εξόρυξη
+πληροφοριών μέσω ερωτηματολογίων.</p>
+
+<p>Του αρέσει η JavaScript και ψάχνεται συνέχεια με καινούρια εργαλεία. Σε αυτό το
+επεισόδιο μιλάμε για REST APIs. Τι είναι και πως τα χρησιμοποιεί η ομάδα του
+Δημήτρη. Κοινές και καλές πρακτικές που εξάγαμε μέσα απο την εμπειρία μας.
+Αγαπημένα μας εργαλεία για documentation και APIs που χρησιμοποιούμε σα πρότυπα.
+Τέλος, μιλάμε για GraphQL και πως συνδέεται με τα REST APIs.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006.michalakos-rest-apis.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/dmichalakos" target="_blank">Dimitris Michalakos</a></li>
+<li><a href="http://www.visionmobile.com/" target="_blank">Vision Mobile</a></li>
+<li><a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm" target="_blank">REST - Representational State Transfer</a></li>
+<li><a href="http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api" target="_blank">Best Practices for Designing a Pragmatic RESTful API</a></li>
+<li><a href="https://github.com/interagent/http-api-design" target="_blank">API design best practices by Heroku engineers</a></li>
+<li><a href="https://stormpath.com/blog/what-the-heck-is-oauth" target="_blank">OAuth explained</a></li>
+<li><a href="https://jwt.io" target="_blank">JWT - JSON Web Tokens </a></li>
+<li><a href="http://stateless.co/hal_specification.html" target="_blank">HAL - Hypertext Application Language</a></li>
+<li><a href="http://jsonapi.org/faq/" target="_blank">JSON API</a></li>
+<li><a href="https://news.ycombinator.com/item?id=11971491" target="_blank">Ask HN: What is your go-to example for a good REST API?</a></li>
+<li><a href="https://medium.com/chute-engineering/graphql-in-the-age-of-rest-apis-b10f2bf09bba" target="_blank">GraphQL in the age of REST APIs
+</a></li>
+<li><a href="https://devchat.tv/adv-in-angular/043-aia-falcor-with-jafar-husain" target="_blank">Adventures in Angular Podcast - 043 - AiA Falcor with Jafar Husain</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το έκτο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+ ]]>
+            </content:encoded>
+            <description>Του αρέσει η JavaScript και ψάχνεται συνέχεια με καινούρια εργαλεία. Σε αυτό το επεισόδιο μιλάμε για REST APIs. Τι είναι και πως τα χρησιμοποιεί η ομάδα του Δημήτρη. Κοινές και καλές πρακτικές που εξάγαμε μέσα απο την εμπειρία μας. Αγαπημένα μας εργαλεία για documentation και APIs που χρησιμοποιούμε σα πρότυπα. Τέλος, μιλάμε για GraphQL και πως συνδεέται με τα REST APIs.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006.michalakos-rest-apis.mp3" length="42178351" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/07/04/ep6-Dimitris-Michalakos/</guid>
       	<pubDate>Mon, 04 Jul 2016 00:00:00 GMT</pubDate>
       	<itunes:duration>43:56</itunes:duration>
-        <itunes:keywords>
-          REST,APIs,GraphQL,
-        </itunes:keywords>
+            <itunes:keywords>
+              REST,APIs,GraphQL,
+            </itunes:keywords>
       	<itunes:explicit>no</itunes:explicit>
       </item>
     
       <item>
       	<title><![CDATA[Επ. 5 - Θάνος Θεοδωρίδης - Remote Working]]></title>
       	<itunes:author>Kostas Bariotis</itunes:author>
-        <itunes:subtitle>Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS και Swift.</itunes:subtitle>
-      	<description><![CDATA[]]></description>
+            <itunes:subtitle>Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS και Swift.</itunes:subtitle>
+      	<content:encoded><![CDATA[ <p>Τον έπρηζα, πριν ένα χρόνο περίπου, να ξεκινήσουμε ένα ελληνικό podcast για
+Developers αλλα δεν ανταποκρινόταν. Εν τέλει το ξεκίνησα μόνος μου όμως του
+έκλεψα την ιδέα του για το όνομα. Ο Θάνος είναι φίλος, περιστασιακός συνεργάτης
+και συνάδελφος κι οι απόψεις του με βάζουν πάντα σε σκέψεις.</p>
+
+<p>Τον είδα να σχεδιάζει μακέτες για το Web, σχεδίασε το blog μου, τον είδα να
+γράφει REST APIs για να σερβίρει τα iOS applications του, τον είδα να κάνει
+δειλά βήματα για να ξεκινήσει του δικό του SaaS business. Η παραγωγικότητα του
+πάντα με συνάρπαζε.</p>
+
+<p>Ο Θάνος δουλεύει remotely. Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι
+είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και
+διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να
+μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS
+Development και Swift.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/005-thanos-remote-working.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="http://attheo.do" target="_blank">Thanos Theodoridis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Telecommuting" target="_blank">Remote Working at Wikipedia</a></li>
+<li><a href="https://37signals.com/remote" target="_blank">Remote - Office not required</a></li>
+<li><a href="https://open.buffer.com/distributed-team-benefits/" target="_blank">The Joys and Benefits of Working as a Distributed Team</a></li>
+<li><a href="http://weworkremotely.com" target="_blank">We Work Remotely</a></li>
+<li><a href="https://angel.co/jobs" target="_blank">Angel.co Jobs</a></li>
+<li><a href="http://careers.stackoverflow.com/" target="_blank">Stackoverflow Careers</a></li>
+<li><a href="https://developer.apple.com/swift/" target="_blank">Swift Lang</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το πέμπτο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+ ]]>
+            </content:encoded>
+            <description>Σε αυτό το επεισόδιο μιλάμε για Remote Working, τι είναι και πως το επιδιώκουμε. Τι θέματα μπορεί να συναντήσει κάποιος, νομικά και διαδικαστικά. Tips και tricks όταν είμαστε σε full remote working mode για να μην χάσουμε την μπάλα. Τέλος, σαν γνήσια geeks, πιάνουμε και αναλύουμε iOS και Swift.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/005-thanos-remote-working.mp3" length="39022341" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/06/03/ep5-Thanos-Theodoridis/</guid>
       	<pubDate>Fri, 03 Jun 2016 00:00:00 GMT</pubDate>
       	<itunes:duration>40:25</itunes:duration>
-        <itunes:keywords>
-          Remote Working,iOS,Swift,
-        </itunes:keywords>
+            <itunes:keywords>
+              Remote Working,iOS,Swift,
+            </itunes:keywords>
       	<itunes:explicit>no</itunes:explicit>
       </item>
     
       <item>
       	<title><![CDATA[Επ. 4 - Κώστας Μαργαρίτης - Infrastructure in the Cloud]]></title>
       	<itunes:author>Kostas Bariotis</itunes:author>
-        <itunes:subtitle>Τέταρτο επεισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο 3 επεισόδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.</itunes:subtitle>
-      	<description><![CDATA[]]></description>
+            <itunes:subtitle>Τέταρτο επεισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο 3 επεισόδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.</itunes:subtitle>
+      	<content:encoded><![CDATA[ <p>Τέταρτο επεισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το
+πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο
+Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο
+3 επεισόδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.</p>
+
+<p>Δίνουμε παραδείγματα απο AWS και με αναφορές στην αρχιτεκτονική της Goodvidio
+κάνουμε μια συζήτηση για θέματα που συναντάει κάποιος όταν κάνει το βήμα να
+μεταφερθεί σε ένα Cloud περιβάλλον.</p>
+
+<p>Συζητάμε για το πώς κάνουμε host specific platform applications με το
+ElasticBeanstalk και πως μας βοηθάει το S3. Επίσης, EC2 container service και
+serverless applications με το AWS Lambda, τι είναι και πως τα χρησιμοποιούμε.
+Security, horizontal και auto scaling, εξισορρόπηση κόστους και μερικά tips και
+tricks απο την εμπειρία μας.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/margaritis.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://gr.linkedin.com/in/kostantinosmargaritis" target="_blank">Kwstas Margaritis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cloud_computing/" target="_blank">Cloud Computing at Wikipedia</a></li>
+<li><a href="https://aws.amazon.com/" target="_blank">Amazon AWS</a></li>
+<li><a href="https://www.goodvid.io/" target="_blank">Goodvidio</a></li>
+<li><a href="https://blog.codingoutloud.com/2010/07/27/three-types-of-scaling-in-the-cloud-scale-up-scale-out-and-now-scale-side-by-side-with-juxtaposition-scaling/" target="_blank">Three Types of Scaling in the Cloud</a></li>
+<li><a href="https://www.heroku.com/" target="_blank">Heroku</a></li>
+<li><a href="https://linode.com/" target="_blank">Linode</a></li>
+<li><a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το τέταρτο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+ ]]>
+            </content:encoded>
+            <description>Τέταρτο επεισόδιο κι εχω κάλεσει τον φίλο Κώστα Μαργαρίτη να συζητήσουμε για το πως στήνουμε την αρχιτεκτονική μας στο Cloud. Ο Κώστας είναι συνάδελφος στο Goodvidio και η κεφαλή του engineering team. Μιλάει πολύ γενικά αλλα μετά απο 3 επεισόδια έχω μάθει να κρατάω τον ρυθμό του συνομιλητή μου.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/margaritis.mp3" length="47446308" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/05/10/ep4-Kwstas-Margaritis/</guid>
       	<pubDate>Tue, 10 May 2016 00:00:00 GMT</pubDate>
       	<itunes:duration>49:25</itunes:duration>
-        <itunes:keywords>
-          Cloud Infrastructure,Scaling,AWS,
-        </itunes:keywords>
+            <itunes:keywords>
+              Cloud Infrastructure,Scaling,AWS,
+            </itunes:keywords>
       	<itunes:explicit>no</itunes:explicit>
       </item>
     
       <item>
       	<title><![CDATA[Επ. 3 - Σταύρος Κοροκυθάκης - Testing]]></title>
       	<itunes:author>Kostas Bariotis</itunes:author>
-        <itunes:subtitle>Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του για μια συζήτηση για Testing. Γράφει Python και Django και το testing είναι απο τις αγαπημένες ασχολίες του.</itunes:subtitle>
-      	<description><![CDATA[]]></description>
+            <itunes:subtitle>Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του για μια συζήτηση για Testing. Γράφει Python και Django και το testing είναι απο τις αγαπημένες ασχολίες του.</itunes:subtitle>
+      	<content:encoded><![CDATA[ <p>Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του
+για μια συζήτηση για Testing. Γράφει Python και Django και το testing είναι απο
+τις αγαπημένες ασχολίες του.</p>
+
+<p>Αναλύουμε τις τεχνικές που ακολουθεί όταν γράφει tests, την &quot;δοκιμοδηγούμενη
+ανάπτυξη λογισμικού&quot; και πότε τα tests μας θεωρούνται καλά και πότε όχι. Επίσης
+πότε χρειαζόμαστε end to end tests και πότε unit tests, καλές και δοκιμασμένες
+πρακτικές για testing workflows και πόσο να προσέξουμε το code coverage μας.</p>
+
+<p>Τις εγκάρδιες ευχές μου στον Στέλιο και στο SSMAP podcast που μας δάνεισε το
+μικρόφωνο του.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep3-stavros-testing.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://www.stavros.io/" target="_blank">Σταύρος Κοροκυθάκης</a></li>
+<li><a href="http://www.meetup.com/PyThess/" target="_blank">Thessaloniki Python Meetup</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank">Test Driven Development</a></li>
+<li><a href="http://blogs.agilefaqs.com/2011/02/01/inverting-the-testing-pyramid/" target="_blank">Inverting the Testing Pyramid</a></li>
+<li><a href="https://pragprog.com/magazines/2012-01/unit-tests-are-first" target="_blank">Unit Tests Are FIRST</a></li>
+<li><a href="https://www.silentcircle.com/" target="_blank">Silent Circle</a></li>
+<li><a href="http://www.scalatest.org/user_guide/property_based_testing" target="_blank">Property-based testing</a></li>
+<li><a href="http://ssmap.tumblr.com" target="_blank">SSMAP podcast</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το τρίτο επεισόδιο του Devastation Podcast με
+κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+ ]]>
+            </content:encoded>
+            <description>Στο τρίτο επεισόδιο με φιλοξενεί ο Σταύρος Κοροκυθάκης στο σπίτι του για μια συζήτηση για Testing. Γράφει Python και Django και το testing είναι απο τις αγαπημένες ασχολίες του.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep3-stavros-testing.mp3" length="29854824" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/04/21/ep3-Stavros-Korokithakis/</guid>
       	<pubDate>Thu, 21 Apr 2016 00:00:00 GMT</pubDate>
       	<itunes:duration>32:00</itunes:duration>
-        <itunes:keywords>
-          Testing,TDD,Code Quality,
-        </itunes:keywords>
+            <itunes:keywords>
+              Testing,TDD,Code Quality,
+            </itunes:keywords>
       	<itunes:explicit>no</itunes:explicit>
       </item>
     
       <item>
       	<title><![CDATA[Επ. 2 - Πάτροκλος Παπαπέτρου - Dev Team Management]]></title>
       	<itunes:author>Kostas Bariotis</itunes:author>
-        <itunes:subtitle>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα διαχείρισης της Development ομάδας μας. Ο Πάτροκλος είναι Software Engineering Manager με πολυετή εμπειρία και πιστεύω πως είναι ο κατάλληλος να απαντήσει στις ερωτήσεις μου περι Dev Team Management.</itunes:subtitle>
-      	<description><![CDATA[]]></description>
+            <itunes:subtitle>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα διαχείρισης της Development ομάδας μας. Ο Πάτροκλος είναι Software Engineering Manager με πολυετή εμπειρία και πιστεύω πως είναι ο κατάλληλος να απαντήσει στις ερωτήσεις μου περι Dev Team Management.</itunes:subtitle>
+      	<content:encoded><![CDATA[ <p>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα
+διαχείρισης της Development ομάδας μας.</p>
+
+<p>Ο Πάτροκλος είναι Software Engineering Manager με πολυετή εμπειρία και πιστεύω
+πως είναι ο κατάλληλος να απαντήσει στις ερωτήσεις μου περι Dev Team Management.
+Είτε αυτη αποτελείται απο 2 άνθρωπους, είτε απο δύο groups των 5 ατόμων, θα
+χρειαστεί ένας άνθρωπος για τον συντονισμό τους.</p>
+
+<p>Μιλάμε επίσης για την καθημερινότητα ενός Manager, τις Agile
+μεθοδολογίες και τα meetings. Tι μαθαίνουμε απο τις τεχνικές που μας προτείνουν
+οι μεγάλοι οργανισμοί και τι κάνουμε με το τεχνικό χρέος!</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="http://softwaregarden.io/" target="_blank">Πάτροκλος Blog</a></li>
+<li><a href="https://gr.linkedin.com/in/ppapapetrou" target="_blank">LinkedIn</a></li>
+<li><a href="http://www.aurea.com/index.html" target="_blank">Aurea</a></li>
+<li><a href="http://softconf.eu/" target="_blank">Soft Conf</a></li>
+<li><a href="http://agilemanifesto.org/" target="_blank">Agile Manifesto</a></li>
+<li><a href="https://www.thoughtworks.com/insights/blog/demystifying-conways-law" target="_blank">Demystifying Conway&#39;s Law</a></li>
+<li><a href="http://mashable.com/2014/04/30/facebooks-new-mantra-move-fast-with-stability/#wALvDUzhQsqc" target="_blank">Facebook Changes Its &#39;Move Fast and Break Things&#39; Motto</a></li>
+<li><a href="https://www.youtube.com/watch?v=mNkWExwavKw" target="_blank">Holding down your Technical Debt with SonarQube (Patroklos Papapetrou, Greece)</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το δεύτερο επεισόδιο του Devastation Podcast με
+κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+ ]]>
+            </content:encoded>
+            <description>Στο δεύτερο επεισόδιο κάλεσα τον Πάτροκλο να μιλήσουμε για θέματα διαχείρισης της Development ομάδας μας. Ο Πάτροκλος είναι Software Engineering Manager με πολυετή εμπειρία και πιστεύω πως είναι ο κατάλληλος να απαντήσει στις ερωτήσεις μου περι Dev Team Management.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" length="45635291" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/03/23/ep2-Patroklos-Papapetrou/</guid>
       	<pubDate>Wed, 23 Mar 2016 00:00:00 GMT</pubDate>
       	<itunes:duration>47:00</itunes:duration>
-        <itunes:keywords>
-          Management,Agile,Startups,
-        </itunes:keywords>
+            <itunes:keywords>
+              Management,Agile,Startups,
+            </itunes:keywords>
       	<itunes:explicit>no</itunes:explicit>
       </item>
     
       <item>
       	<title><![CDATA[Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων]]></title>
       	<itunes:author>Kostas Bariotis</itunes:author>
-        <itunes:subtitle>Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.</itunes:subtitle>
-      	<description><![CDATA[]]></description>
+            <itunes:subtitle>Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.</itunes:subtitle>
+      	<content:encoded><![CDATA[ <p>Γνώρισα τον Θανάση το 2014 όταν η τεχνολογική κοινότητα της Θεσσαλονίκης δεν
+είχε πάρει ακόμη την σημερινή της μορφή. Δεν άργησαν τα ταιριάξουν τα χνώτα μας
+και δεν χάνω ευκαιρία σε κάθε συνάντηση μας να πάρω την άποψη του για κάποιο
+προβληματισμό μου.</p>
+
+<p>Είναι Nodejs consultant, σκληροπυρηνικός προγραμματιστής με επιχειρηματικές
+διαθέσεις. Τρέχει πάντα κάποιο ενδιαφέρον project και μετράει τον χρόνο του.</p>
+
+<p>Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την
+κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται
+με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3"
+ target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="http://thanpol.as" target="_blank">Θανάσης Πολυχρονάκης</a></li>
+<li><a href="http://20minus.com" target="_blank">20minus.com</a></li>
+<li><a href="https://netscan.co" target="_blank">Netscan.co</a></li>
+<li><a href="http://insightreplay.com" target="_blank">Insight Replay</a></li>
+<li><a href="http://devitconf.org" target="_blank">Devit Conference</a></li>
+<li><a href="http://skgtech.io" target="_blank">SKGtech.io</a></li>
+<li><a href="https://www.youtube.com/watch?v=vChly7JQiew" target="_blank">How To Freelance</a></li>
+<li><a href="http://frontmass.org" target="_blank">FrontMASS</a></li>
+<li><a href="http://heroku.com" target="_blank">Heroku</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>θα χαιρόμουν πολύ εαν μοιραζόσασταν το πρώτο επεισόδιο του Devastation Podcast με
+κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+ ]]>
+            </content:encoded>
+            <description>Σε αυτό το επεισόδιο συζητάμε περι ανέμων και υδάτων. Απο τα  startups, την κουλτούρα του remote working, το πως ένας αυτοδίδακτος προγραμματιστής συνεργάζεται με αμερικάνικες εταιρείες μέχρι την NodeJS και Javascript.</description>
       	<enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3" length="37097221" type="audio/mpeg"/>
       	<guid isPermaLink="true">http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/</guid>
       	<pubDate>Thu, 25 Feb 2016 00:00:00 GMT</pubDate>
       	<itunes:duration>38:00</itunes:duration>
-        <itunes:keywords>
-          Nodejs,Startups,SKGtech,
-        </itunes:keywords>
+            <itunes:keywords>
+              Nodejs,Startups,SKGtech,
+            </itunes:keywords>
       	<itunes:explicit>no</itunes:explicit>
       </item>
     
