@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://devastation.tv/2016/11/15/ep9-Nikos-Zinas/</loc>
+<lastmod>2016-11-15T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://devastation.tv/2016/10/19/ep8-Dimitris-Andreadis/</loc>
 <lastmod>2016-10-19T00:00:00+03:00</lastmod>
 </url>
@@ -103,5 +107,14 @@
 </url>
 <url>
 <loc>http://devastation.tv/tag/Wildfly/</loc>
+</url>
+<url>
+<loc>http://devastation.tv/tag/Styleguides%2520Driven%2520Development/</loc>
+</url>
+<url>
+<loc>http://devastation.tv/tag/Styleguides/</loc>
+</url>
+<url>
+<loc>http://devastation.tv/tag/CSS/</loc>
 </url>
 </urlset>
