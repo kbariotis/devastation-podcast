@@ -1,6 +1,6 @@
 ---
 layout: post_audio
-title:  "Επ. 9 - Νίκος Ζινάς - Styleguides Driven Development"
+title:  "Επ. 9 - Νίκος Ζηνάς - Styleguides Driven Development"
 date:   2016-11-15
 tags:
 - Styleguides Driven Development
