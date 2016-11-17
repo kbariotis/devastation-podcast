@@ -71,11 +71,14 @@
       <h2 class="subtitle">Το podcast για developers</h2>
     </div>
     <ul id="nav">
+      <li class="{% if page.url == '/' %}active{% endif %}">
+        <a href="/">Αρχικη</a>
+      </li>
+      <li class="{% if page.url == '/episodes' %}active{% endif %}">
+        <a href="/episodes">Επεισοδια</a>
+      </li>
       <li class="{% if page.url == '/pages/about/' %}active{% endif %}">
         <a href="/pages/about">Σχετικα</a>
-      </li>
-      <li class="{% if page.url == '/' %}active{% endif %}">
-        <a href="/">Επεισοδια</a>
       </li>
       <li>
         <a href="#" id="contact-section">Επικοινωνια</a>

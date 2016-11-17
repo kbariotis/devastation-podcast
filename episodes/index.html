@@ -5,10 +5,8 @@ title: Devastation Podcast - Το podcast για developers
 <div class="blog-posts">
 
     <div class="container">
-
-        {% assign post = site.posts.first %}
+      {% for post in paginator.posts %}
         <div class="post-item">
-            <div class="h2 text-center">Ακουσε το τελευταιο</div>
             <div class="post-header">
                {% case post.layout %}
 
@@ -60,6 +58,22 @@ title: Devastation Podcast - Το podcast για developers
             </div>
             <a href="{{ post.url }}" class="post-more">Άκουσε το</a>
         </div>
+        {% endfor %}
+
+        <div id="blog-pagination">
+            <ul>
+                {% if paginator.previous_page %}
+                <li class="prev"><a href="{{paginator.previous_page_path}}"><i class="fa fa-angle-left"></i><span>Προηγούμενα</span></a></li>
+                {% endif %}
+                {% if paginator.previous_page or paginator.next_page%}
+                <li class="separator"></li>
+                {% endif %}
+                 {% if paginator.next_page %}
+                <li class="next"><a href="{{paginator.next_page_path}}"><span>Επόμενα</span><i class="fa fa-angle-right"></i></a></li>
+                {% endif %}
+            </ul>
+        </div>
+
         {% include subscribe.html %}
     </div>
 </div>
