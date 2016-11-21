@@ -16,11 +16,11 @@
     <description>Devastation Podcast - Το Podcast για Developers</description>
     <link>http://devastation.tv</link>
     <language>el-gr</language>
-    <managingEditor>konmpar@gmail.com</managingEditor>
-    <webMaster>konmpar@gmail.com</webMaster>
+    <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
+    <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Fri, 18 Nov 2016 13:01:17 GMT</pubDate>
-    <lastBuildDate>Fri, 18 Nov 2016 13:01:17 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Nov 2016 13:01:09 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Nov 2016 13:01:09 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -37,7 +37,7 @@
     <itunes:keywords>Programming, Startups, SKGtech, Greece</itunes:keywords>
     <itunes:owner>
       <itunes:name>Kostas Bariotis</itunes:name>
-      <itunes:email>konmpar@gmail.com</itunes:email>
+      <itunes:email>info@devastation.tv (Kostas Bariotis)</itunes:email>
     </itunes:owner>
     <itunes:image href="http://devastation.tv/img/thess.jpg"/>
     <itunes:category text="Technology">
@@ -48,7 +48,6 @@
         <title><![CDATA[Επ. 9 - Νίκος Ζηνάς - Styleguides Driven Development]]></title>
         <link>http://devastation.tv/2016/11/15/ep9-Nikos-Zinas/</link>
         <pubDate>Tue, 15 Nov 2016 00:00:00 GMT</pubDate>
-        <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/11/15/ep9-Nikos-Zinas/</guid>
         <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/009-zinas-styleguides-driven-development.mp3" length="31952561" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
@@ -125,7 +124,6 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <title><![CDATA[Επ. 8 - Δημήτρης Ανδρεάδης - Το open source απελευθερώνει]]></title>
         <link>http://devastation.tv/2016/10/19/ep8-Dimitris-Andreadis/</link>
         <pubDate>Wed, 19 Oct 2016 00:00:00 GMT</pubDate>
-        <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/10/19/ep8-Dimitris-Andreadis/</guid>
         <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/008-dandreadis-open-source-will-set-you-free.mp3" length="49487621" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
@@ -195,7 +193,6 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <title><![CDATA[Επ. 7 - Γιώργος Κράβας - Reactive X]]></title>
         <link>http://devastation.tv/2016/09/26/ep7-George-Kravas/</link>
         <pubDate>Mon, 26 Sep 2016 00:00:00 GMT</pubDate>
-        <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/09/26/ep7-George-Kravas/</guid>
         <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006-kravas-reactive-x.mp3" length="27928868" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
@@ -266,7 +263,6 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <title><![CDATA[Επ. 6 - Δημήτρης Μιχαλάκος - REST APIs]]></title>
         <link>http://devastation.tv/2016/07/04/ep6-Dimitris-Michalakos/</link>
         <pubDate>Mon, 04 Jul 2016 00:00:00 GMT</pubDate>
-        <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/07/04/ep6-Dimitris-Michalakos/</guid>
         <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006.michalakos-rest-apis.mp3" length="42178351" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
@@ -343,7 +339,6 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <title><![CDATA[Επ. 5 - Θάνος Θεοδωρίδης - Remote Working]]></title>
         <link>http://devastation.tv/2016/06/03/ep5-Thanos-Theodoridis/</link>
         <pubDate>Fri, 03 Jun 2016 00:00:00 GMT</pubDate>
-        <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/06/03/ep5-Thanos-Theodoridis/</guid>
         <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/005-thanos-remote-working.mp3" length="39022341" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
@@ -416,7 +411,6 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <title><![CDATA[Επ. 4 - Κώστας Μαργαρίτης - Infrastructure in the Cloud]]></title>
         <link>http://devastation.tv/2016/05/10/ep4-Kwstas-Margaritis/</link>
         <pubDate>Tue, 10 May 2016 00:00:00 GMT</pubDate>
-        <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/05/10/ep4-Kwstas-Margaritis/</guid>
         <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/margaritis.mp3" length="47446308" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
@@ -488,7 +482,6 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <title><![CDATA[Επ. 3 - Σταύρος Κοροκυθάκης - Testing]]></title>
         <link>http://devastation.tv/2016/04/21/ep3-Stavros-Korokithakis/</link>
         <pubDate>Thu, 21 Apr 2016 00:00:00 GMT</pubDate>
-        <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/04/21/ep3-Stavros-Korokithakis/</guid>
         <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep3-stavros-testing.mp3" length="29854824" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
@@ -557,7 +550,6 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <title><![CDATA[Επ. 2 - Πάτροκλος Παπαπέτρου - Dev Team Management]]></title>
         <link>http://devastation.tv/2016/03/23/ep2-Patroklos-Papapetrou/</link>
         <pubDate>Wed, 23 Mar 2016 00:00:00 GMT</pubDate>
-        <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/03/23/ep2-Patroklos-Papapetrou/</guid>
         <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/ep2-patroklos.mp3" length="45635291" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
@@ -626,7 +618,6 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <title><![CDATA[Επ. 1 - Θανάσης Πολυχρονάκης - Περι ανέμων και υδάτων]]></title>
         <link>http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/</link>
         <pubDate>Thu, 25 Feb 2016 00:00:00 GMT</pubDate>
-        <description></description>
         <guid isPermaLink="true">http://devastation.tv/2016/02/25/ep1-Thanasis-Polychronakis/</guid>
         <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/episode1.mp3" length="37097221" type="audio/mpeg"/>
         <itunes:author>Kostas Bariotis</itunes:author>
