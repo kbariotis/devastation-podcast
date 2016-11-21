@@ -50,7 +50,6 @@
         <title><![CDATA[{{ post.title }}]]></title>
         <link>{{ site.url }}{{ post.url }}</link>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-        <description>{{ post.description }}</description>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
         <enclosure url="{{ post.audio }}" length="{{ post.length }}" type="audio/mpeg"/>
         <itunes:author>{{ site.managerName }}</itunes:author>
