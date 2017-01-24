@@ -19,8 +19,8 @@
     <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
     <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Wed, 23 Nov 2016 21:34:25 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Nov 2016 21:34:25 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Jan 2017 18:09:51 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Jan 2017 18:09:51 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -43,6 +43,79 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+        <title><![CDATA[Επ. 10 - Δημήτρης Ζορμπάς - Elixir Lang]]></title>
+        <link>http://devastation.tv/2017/01/24/ep10-Dimitris-Zorbas/</link>
+        <pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">http://devastation.tv/2017/01/24/ep10-Dimitris-Zorbas/</guid>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/010.zorbas-elixir.mp3" length="29097064" type="audio/mpeg"/>
+        <itunes:author>Kostas Bariotis</itunes:author>
+				<dc:creator>Kostas Bariotis</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            <p>Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ για την δουλειά τους
+και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των
+analytics και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.</p>
+
+<p>Η Elixir δημιουργήθηκε με σκοπό να διορθώσει προβλήματα σε concurrent systems που 
+απασχολούσαν τους Ruby developers. Είναι δυναμική, functional κι έχει πρόσβαση σε όλο
+το οικοσύστημα της Erlang.</p>
+
+<p>Σε αυτό το επεισόδιο μιλάμε για την γλώσσα, την ιστορία της και σε τι διαφέρει απο τις άλλες.
+Την κοινότητα της και ποιοι μεγάλοι παίχτες την χρησιμοποιούν. Τέλος, για ποιο λόγο κάποιος 
+να την χρησιμοποιήσει και τι να προσέξει όταν ξεκινάει.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/010.zorbas-elixir.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://www.goodreads.com/user/show/13437694-dimitrios" target="_blank">Dimitris on GoodReads</a></li>
+<li><a href="https://twitter.com/_zorbash" target="_blank">Dimitris on Twitter</a></li>
+<li><a href="http://elixir-lang.org/" target="_blank">Elixir</a></li>
+<li><a href="https://www.erlang.org/" target="_blank">Erlang</a></li>
+<li><a href="https://elixirforum.com/" target="_blank">Elixir Forum</a></li>
+<li><a href="https://engineering.skroutz.gr/blog/skroutz-analytics/" target="_blank">Skroutz Analytics</a></li>
+<li><a href="https://speakerdeck.com/zorbash/lets-talk-about-elixir" target="_blank">Let&#39;s talk about Elixir - Dimitris Zorbas</a></li>
+<li><a href="http://zorbash.com/post/my-year-with-elixir/" target="_blank">My Year With Elixir - Zorbash Blog</a></li>
+<li><a href="http://theerlangelist.com/article/why_elixir" target="_blank">Why Elixir - Erlagelist</a></li>
+<li><a href="https://speakerdeck.com/bcardarella/from-rails-to-phoenix" target="_blank">From Rails to Phoenix - Brian Cardarella</a></li>
+<li><a href="http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections" target="_blank">The Road to 2 Million Websocket Connections in Phoenix</a></li>
+<li><a href="https://www.youtube.com/watch?v=fhOHn9TClXY" target="_blank">Joe Armstrong &amp; Alan Kay - Joe Armstrong interviews Alan Kay</a></li>
+<li><a href="https://github.com/kittoframework/kitto" target="_blank">Kitto framework</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το δέκατο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+
+        ]]>
+        </content:encoded>
+				<description>
+					Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ και για την δουλειά τους και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των analytics και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.
+				</description>
+				<itunes:subtitle>
+					Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ και για την δουλειά τους και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των analytics και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.
+				</itunes:subtitle>
+				<itunes:summary>
+					Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ και για την δουλειά τους και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των analytics και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.
+				</itunes:summary>
+        <itunes:duration>30:18</itunes:duration>
+				
+				<category><![CDATA[Elixir Language]]></category>
+				
+				<category><![CDATA[Erlang VM]]></category>
+				
+				<category><![CDATA[Ditributed Systens]]></category>
+				
+        <itunes:keywords>
+          Elixir Language,Erlang VM,Ditributed Systens,
+        </itunes:keywords>
+        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
         <title><![CDATA[Επ. 9 - Νίκος Ζηνάς - Styleguides Driven Development]]></title>
