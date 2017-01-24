@@ -19,8 +19,8 @@
     <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
     <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Tue, 24 Jan 2017 18:09:51 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Jan 2017 18:09:51 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Jan 2017 22:38:30 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Jan 2017 22:38:30 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -108,10 +108,10 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
 				
 				<category><![CDATA[Erlang VM]]></category>
 				
-				<category><![CDATA[Ditributed Systens]]></category>
+				<category><![CDATA[Distributed Systems]]></category>
 				
         <itunes:keywords>
-          Elixir Language,Erlang VM,Ditributed Systens,
+          Elixir Language,Erlang VM,Distributed Systems,
         </itunes:keywords>
         <itunes:image href="http://devastation.tv/img/thess.jpg"/>
         <itunes:explicit>no</itunes:explicit>
