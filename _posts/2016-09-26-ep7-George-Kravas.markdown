@@ -30,7 +30,7 @@ Mobile developer, απο τους πρώτους του γνωστού e-FOOD mo
 και οργανισμούς. Μιλάμε για τα core features του, την ιστορία του και τις περιοχές 
 εφαρμογής του.
 
-<a href="httpshttps://s3-eu-west-1.amazonaws.com/devastation-podcast/006-kravas-reactive-x.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a>
+<a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/006-kravas-reactive-x.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a>
 
 Σύνδεσμοι:
 

@@ -33,6 +33,7 @@ summary: "Ο Νίκος επέστρεψε στη Θεσσαλονίκη μετ�
 
 Σύνδεσμοι:
 
+* <a href="http://zin.as/" target="_blank">Nikos Zinas</a>
 * <a href="https://gr.linkedin.com/in/zinas" target="_blank">Nikos Zinas on Linkedin</a>
 * <a href="http://slides.com/nikoszinas/" target="_blank">Nikos Zinas on Slides</a>
 * <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
