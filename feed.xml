@@ -19,8 +19,8 @@
     <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
     <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Wed, 25 Jan 2017 12:24:02 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Jan 2017 12:24:02 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Jan 2017 12:26:06 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Jan 2017 12:26:06 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -55,9 +55,9 @@
         <content:encoded>
         <![CDATA[
             <p>Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ για την δουλειά τους
-και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι analytics του Skroutz.gr 
-στο τμήμα των analytics και τελευταία ασχολείται πολύ με Elixir language, ένα flavor 
-πάνω απο το Erlang VM.</p>
+και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των
+analytics του Skroutz και τελευταία ασχολείται πολύ με Elixir language, ένα 
+flavor πάνω απο το Erlang VM.</p>
 
 <p>Η Elixir δημιουργήθηκε με σκοπό να διορθώσει προβλήματα σε concurrent systems που 
 απασχολούσαν τους Ruby developers. Είναι δυναμική, functional κι έχει πρόσβαση σε όλο
@@ -95,13 +95,13 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         ]]>
         </content:encoded>
 				<description>
-					Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ και για την δουλειά τους και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των analytics του Skroutz.gr και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.
+					Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ και για την δουλειά τους και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των analytics του Skroutz και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.
 				</description>
 				<itunes:subtitle>
-					Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ και για την δουλειά τους και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των analytics του Skroutz.gr και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.
+					Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ και για την δουλειά τους και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των analytics του Skroutz και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.
 				</itunes:subtitle>
 				<itunes:summary>
-					Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ και για την δουλειά τους και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των analytics του Skroutz.gr και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.
+					Ο Δημήτρης είναι απο μια ομάδα της Αθήνας που θαυμάζω πολύ και για την δουλειά τους και για την ενασχόληση τους με το ελεύθερο λογισμικό. Είναι lead engineer στο τμήμα των analytics του Skroutz και τελευταία ασχολείται πολύ με Elixir language, ένα flavor πάνω απο το Erlang VM.
 				</itunes:summary>
         <itunes:duration>30:18</itunes:duration>
 				
