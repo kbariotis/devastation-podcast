@@ -39,7 +39,7 @@ summary: "Μπορεί να άργησε αυτη η ηχογράφηση αλλ
 * <a href="https://www.amazon.com/gp/product/0596522304" target="_blank">Even Faster Web Sites</a>
 * <a href="https://hpbn.co/" target="_blank">High Performance Browser Networking</a>
 * <a href="http://designingforperformance.com/" target="_blank">Designing for Performance</a>
-* <a href="http://shop.oreilly.com/product/0636920039730.do</a>
+* <a href="http://shop.oreilly.com/product/0636920039730.do>High Performance Images</a>
 * <a href="https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/" target="_blank">How browsers work</a>
 * <a href="https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/" target="_blank">Async scripts</a>
 * <a href="https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/" target="_blank">Rendering: repaint, reflow/relayout, restyle</a>
