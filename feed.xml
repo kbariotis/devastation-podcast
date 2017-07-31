@@ -19,8 +19,8 @@
     <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
     <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Fri, 31 Mar 2017 01:13:49 GMT</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2017 01:13:49 GMT</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2017 22:45:52 GMT</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2017 22:45:52 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -43,6 +43,76 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+        <title><![CDATA[Επ. 12 - Γιάννης Φενέρης - UX]]></title>
+        <link>http://devastation.tv/2017/07/31/ep12-Ioannis-Feneris/</link>
+        <pubDate>Mon, 31 Jul 2017 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">http://devastation.tv/2017/07/31/ep12-Ioannis-Feneris/</guid>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/012-feneris-user-experience.mp3" length="38542106" type="audio/mpeg"/>
+        <itunes:author>Kostas Bariotis</itunes:author>
+				<dc:creator>Kostas Bariotis</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            <p>Σε αυτό το επεισόδιο o Γιάννης ξεκαθαρίζει τι εννούμε όταν μιλάμε για UX. Πρωτού
+κάνουμε αυτην την κουβέντα βρισκόμουν σε παντελή άγνοια περι του θέματος.</p>
+
+<p>Ο Γίαννης μου εξηγει ότι το User Experience έχει εφαρμογή σε όλη την διαδικασία παραγωγής
+λογισμικού, απο την αρχική επιβεβαίωση μιας ιδέας μέχρι το τελικό μενού της εφαρμογής
+που εντέλει θα δεί ο χρήστης μας. Σκοπός μας είναι να φέρουμε τον χρήστη στο κέντρο
+και μέσα απο μεθοδευμένες διαδικασίες να κάνουμε την εμπειρία του καλύτερη.</p>
+
+<p>Είτε developer, product owner ή designer χρειάζεσαι γνώσεις που μπορείς να χρησιμοποιήσεις
+για να πάρεις αποφάσεις, αποφάσεις που συνήθως πέρνονται εμπειρικά ή ακόμη και στα τυφλά.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/012-feneris-user-experience.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="http://ioannisfeneris.com/" target="_blank">Ioannis Feneris</a></li>
+<li><a href="https://www.linkedin.com/in/ifeneris?ppe=1" target="_blank">Ioannis on LinkedIn</a></li>
+<li><a href="http://99percentinvisible.org/article/norman-doors-dont-know-whether-push-pull-blame-design/" target="_blank">Norman Doors: Don’t Know Whether to Push or Pull? Blame Design</a></li>
+<li><a href="https://www.nngroup.com/articles/definition-user-experience/" target="_blank">The Definition of User Experience (UX)</a></li>
+<li><a href="https://www.youtube.com/watch?v=O94kYyzqvTc" target="_blank">The ROI of User Experience</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things" target="_blank">The Design of Everyday Things</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think" target="_blank">Don&#39;t Make Me Think</a></li>
+<li><a href="http://www.keepitusable.com/blog/?tag=ux-benefits" target="_blank">Creating meaningful experiences: an Introduction to User Experience design</a></li>
+<li><a href="https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d" target="_blank">UX Design Methods &amp; Deliverables</a></li>
+<li><a href="https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/" target="_blank">Async scripts</a></li>
+<li><a href="http://uxmyths.com/" target="_blank">UXMyths - Build your product based on evidence, not false beliefs.</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το δωδέκατο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+
+        ]]>
+        </content:encoded>
+				<description>
+					Ο Γίαννης μου εξηγει ότι το User Experience έχει εφαρμογή σε όλη την διαδικασία παραγωγής λογισμικού, απο την αρχική επιβεβαίωση μιας ίδεας μέχρι το τελικό μενού της εφαρμογής που εντέλει θα φτάσει στον χρήστη μας. Σκοπός μας είναι να φέρουμε τον χρήστη στο κέντρο και μέσα απο μεθοδευμένες διαδικασίες να κάνουμε την εμπειρία του καλύτερη.
+				</description>
+				<itunes:subtitle>
+					Ο Γίαννης μου εξηγει ότι το User Experience έχει εφαρμογή σε όλη την διαδικασία παραγωγής λογισμικού, απο την αρχική επιβεβαίωση μιας ίδεας μέχρι το τελικό μενού της εφαρμογής που εντέλει θα φτάσει στον χρήστη μας. Σκοπός μας είναι να φέρουμε τον χρήστη στο κέντρο και μέσα απο μεθοδευμένες διαδικασίες να κάνουμε την εμπειρία του καλύτερη.
+				</itunes:subtitle>
+				<itunes:summary>
+					Ο Γίαννης μου εξηγει ότι το User Experience έχει εφαρμογή σε όλη την διαδικασία παραγωγής λογισμικού, απο την αρχική επιβεβαίωση μιας ίδεας μέχρι το τελικό μενού της εφαρμογής που εντέλει θα φτάσει στον χρήστη μας. Σκοπός μας είναι να φέρουμε τον χρήστη στο κέντρο και μέσα απο μεθοδευμένες διαδικασίες να κάνουμε την εμπειρία του καλύτερη.
+				</itunes:summary>
+        <itunes:duration>40:08</itunes:duration>
+				
+				<category><![CDATA[UX]]></category>
+				
+				<category><![CDATA[User Experience]]></category>
+				
+				<category><![CDATA[Web Development]]></category>
+				
+        <itunes:keywords>
+          UX,User Experience,Web Development,
+        </itunes:keywords>
+        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
         <title><![CDATA[Επ. 11 - Στράτος Παυλάκης - Web Performance]]></title>
