@@ -38,7 +38,6 @@ summary: "Ο Γίαννης μου εξηγει ότι το User Experience έχ
 * <a href="https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think" target="_blank">Don't Make Me Think</a>
 * <a href="http://www.keepitusable.com/blog/?tag=ux-benefits" target="_blank">Creating meaningful experiences: an Introduction to User Experience design</a>
 * <a href="https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d" target="_blank">UX Design Methods & Deliverables</a>
-* <a href="https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/" target="_blank">Async scripts</a>
 * <a href="http://uxmyths.com/" target="_blank">UXMyths - Build your product based on evidence, not false beliefs.</a>
 
 <br/>
