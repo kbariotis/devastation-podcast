@@ -1,7 +1,7 @@
 ---
 layout: post_audio
 title:  "Επ. 13 - Δημήτρης Τσιφλιτζής - Μεθοδολογία Scrum"
-date:   2017-11-24
+date:   2017-11-23
 tags:
 - Scrum
 - Agile Methodologies

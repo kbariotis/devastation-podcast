@@ -3,7 +3,6 @@ var browserSync = require('browser-sync');
 var sass = require('gulp-sass');
 var prefix = require('gulp-autoprefixer');
 var cp = require('child_process');
-var jade = require('gulp-jade');
 var ghPages = require('gulp-gh-pages');
 
 var messages = {
@@ -53,23 +52,11 @@ gulp.task('sass', function () {
     .pipe(gulp.dest('assets/css'));
 });
 
-/*
- * Travis is trying to Gulp stuff
- */
-gulp.task('jade', function () {
-  return gulp.src('_jadefiles/*.jade')
-    .pipe(jade())
-    .pipe(gulp.dest('_includes'));
-});
-
 /**
  * Watch scss files for changes & recompile
  * Watch html/md files, run jekyll & reload BrowserSync
  */
 gulp.task('watch', function () {
-  // gulp.watch('assets/', ['sass']);
-  // gulp.watch('assets/js/**', ['jekyll-rebuild']);
-  // gulp.watch('_jadefiles/*.jade', ['jade']);
   gulp.watch([
     'js/**',
     'css/**',
