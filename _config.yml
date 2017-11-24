@@ -13,7 +13,7 @@ highlighter: null
 
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
