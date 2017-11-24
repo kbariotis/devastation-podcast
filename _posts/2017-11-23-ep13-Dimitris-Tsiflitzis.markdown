@@ -34,7 +34,6 @@ Developer και συνδιοργανωτής του CocoaHeadsSKG."
 * <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank">Agile Software Development (Wikipedia)</a>
 * <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)" target="_blank">Scrum Methodology (Wikipedia)</a>
 * <a href="https://en.wikipedia.org/wiki/Kanban" target="_blank">Kanban (Wikipedia)</a>
-* <a href="https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things" target="_blank">The Design of Everyday Things</a>
 * <a href="http://www.scrumguides.org/index.html" target="_blank">Scrum Guides</a>
 * <a href="https://www.meetup.com/CocoaHeadsSKG/" target="_blank">CocoaHeadsSKG</a>
 
