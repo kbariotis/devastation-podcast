@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
+<script>
+  fbq('track', 'ViewContent', {
+    content_ids: ["{{page.url}}"],
+  });
+</script>
 <div class="single-post">
   <div class="container">
     <div class="post-item">
