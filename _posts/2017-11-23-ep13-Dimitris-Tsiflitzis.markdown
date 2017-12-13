@@ -1,5 +1,6 @@
 ---
 layout: post_audio
+og_image: ep13.jpg
 title:  "Επ. 13 - Δημήτρης Τσιφλιτζής - Μεθοδολογία Scrum"
 date:   2017-11-23
 tags:

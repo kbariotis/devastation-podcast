@@ -1,5 +1,6 @@
 ---
 layout: post_audio
+og_image: ep12.jpg
 title:  "Επ. 12 - Γιάννης Φενέρης - UX"
 date:   2017-07-31
 tags:

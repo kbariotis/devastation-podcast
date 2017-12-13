@@ -8,7 +8,8 @@
   <meta name="description" content="{{ page.summary }}">
   <meta itemprop="name" content="{{ page.title }}">
   <meta itemprop="description" content="{{ page.summary }}">
-  <meta itemprop="image" content="{{site.url}}/img/devastation-tv-og.jpg">
+  <meta itemprop="image" content="{% if page.og_image %}{{site.url}}/img/{{page.og_image}}{% else %}{{site.url}}/img/devastation-tv-og.jpg{% endif
+  %}">
 
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
@@ -24,12 +25,13 @@
   <meta name="twitter:title" content="{{page.title}}">
   <meta name="twitter:description" content="{{ page.summary }}">
   <meta name="twitter:creator" content="@devastationtv">
-  <meta name="twitter:image:src" content="{{site.url}}/img/devastation-tv-og.jpg">
+  <meta name="twitter:image:src" content="{% if page.og_image %}{{site.url}}/img/{{page.og_image}}{% else %}{{site.url}}/img/devastation-tv-og.jpg{% endif %}">
 
   <meta property="og:title" content="{{page.title}}" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{site.url}}{{page.url}}" />
-  <meta property="og:image" content="{{site.url}}/img/devastation-tv-og.jpg" />
+  <meta property="og:image" content="{% if page.og_image %}{{site.url}}/img/{{page.og_image}}{% else %}{{site.url}}/img/devastation-tv-og.jpg{% endif
+  %}"/>
   <meta property="og:description" content="{{ page.summary }}" />
   <meta property="og:site_name" content="Devastation Podcast" />
 
