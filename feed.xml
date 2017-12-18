@@ -19,8 +19,8 @@
     <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
     <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Sun, 17 Dec 2017 18:43:16 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2017 18:43:16 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2017 22:31:01 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2017 22:31:01 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -43,6 +43,72 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+        <title><![CDATA[Επ. 14 - Γιώργος Σπανός - Persistence Layer]]></title>
+        <link>http://devastation.tv/2017/12/18/ep14-George-Spanos/</link>
+        <pubDate>Mon, 18 Dec 2017 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">http://devastation.tv/2017/12/18/ep14-George-Spanos/</guid>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/014-spanos-persistence-layer.mp3" length="42992953" type="audio/mpeg"/>
+        <itunes:author>Kostas Bariotis</itunes:author>
+				<dc:creator>Kostas Bariotis</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            <p>Επιστρέφουμε στα τεχνικά και μιλάμε για το persistence layer μιας αρχιτεκτονικής. Φιλοξενώ
+τον Γιώργο Σπανό να μου πει για το πως δουλεύουν οι βάσεις δεδομένων, απο τι αποτελούνται
+και μερικές συμβουλές για την σωστή δόμηση τους.</p>
+
+<p>Μιλάμε για τα συστήματα αρχείων, τον θεμέλιο λίθο των βάσεων δεδομένων. Τα βασικά χαρακτηριστικά
+τους όπως indices και transactions. Θίγουμε το θέμα των migrations και πως εφαρμόζονται σε πραγματικές
+συνθήκες.</p>
+
+<p>Τέλος μιλάμε για scaling και πότε η βάση μας θα γίνει το bottleneck της αρχιτεκτονικής.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/014-spanos-persistence-layer.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://www.linkedin.com/in/spanosgeorge/" target="_blank">George Spanos on LinkedIn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Persistence_(computer_science)" target="_blank">Persistence (computer science) (Wikipedia)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ACID" target="_blank">ACID (Wikipedia)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Schema_migration" target="_blank">Schema migration (Wikipedia)</a></li>
+<li><a href="https://www.percona.com/doc/percona-toolkit/LATEST/index.html" target="_blank">Percona Toolkit Documentation</a></li>
+<li><a href="http://www.pgpool.net/mediawiki/index.php/Main_Page" target="_blank">Pgpool-II</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το δέκατο τέταρτο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+
+        ]]>
+        </content:encoded>
+				<description>
+					Επιστρέφουμε στα τεχνικά και μιλάμε για το persistence layer μιας αρχιτεκτονικής. Φιλοξενώ τον Γιώργο Σπανό να μου πει για το πώς δουλεύουν οι βάσεις δεδομένων, απο τι αποτελούνται και μερικές συμβουλές για την σωστή δόμηση τους.
+				</description>
+				<itunes:subtitle>
+					Επιστρέφουμε στα τεχνικά και μιλάμε για το persistence layer μιας αρχιτεκτονικής. Φιλοξενώ τον Γιώργο Σπανό να μου πει για το πώς δουλεύουν οι βάσεις δεδομένων, απο τι αποτελούνται και μερικές συμβουλές για την σωστή δόμηση τους.
+				</itunes:subtitle>
+				<itunes:summary>
+					Επιστρέφουμε στα τεχνικά και μιλάμε για το persistence layer μιας αρχιτεκτονικής. Φιλοξενώ τον Γιώργο Σπανό να μου πει για το πώς δουλεύουν οι βάσεις δεδομένων, απο τι αποτελούνται και μερικές συμβουλές για την σωστή δόμηση τους.
+				</itunes:summary>
+        <itunes:duration>44:47</itunes:duration>
+				
+				<category><![CDATA[Databases]]></category>
+				
+				<category><![CDATA[DBMSs]]></category>
+				
+				<category><![CDATA[SQL]]></category>
+				
+				<category><![CDATA[NoSQL]]></category>
+				
+        <itunes:keywords>
+          Databases,DBMSs,SQL,NoSQL,
+        </itunes:keywords>
+        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
         <title><![CDATA[Επ. 13 - Δημήτρης Τσιφλιτζής - Μεθοδολογία Scrum]]></title>
