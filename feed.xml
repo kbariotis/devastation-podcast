@@ -19,15 +19,15 @@
     <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
     <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Mon, 18 Dec 2017 22:31:01 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2017 22:31:01 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2017 23:56:42 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 23:56:42 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <image>
       <link>http://devastation.tv</link>
-      <url>http://devastation.tv/img/thess.jpg</url>
+      <url>http://devastation.tv/img/itunes.jpg</url>
       <title>Devastation Podcast</title>
     </image>
     <itunes:explicit>No</itunes:explicit>
@@ -39,7 +39,7 @@
       <itunes:name>Kostas Bariotis</itunes:name>
       <itunes:email>info@devastation.tv (Kostas Bariotis)</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+    <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
@@ -106,7 +106,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Databases,DBMSs,SQL,NoSQL,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -173,7 +173,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Scrum,Agile Methodologies,Product Design,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -242,7 +242,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           UX,User Experience,Web Development,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -324,7 +324,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Web Performance,Server,Browser,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -398,7 +398,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Elixir Language,Erlang VM,Distributed Systems,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -474,7 +474,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Styleguides Driven Development,Styleguides,CSS,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -543,7 +543,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Open source,Wildfly,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -613,7 +613,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Reactive X,Functional Reactive Programming,Android,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -689,7 +689,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           REST,APIs,GraphQL,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -761,7 +761,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Remote Working,iOS,Swift,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -832,7 +832,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Cloud Infrastructure,Scaling,AWS,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -900,7 +900,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Testing,TDD,Code Quality,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -968,7 +968,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Management,Agile,Startups,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
@@ -1038,7 +1038,7 @@ Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλ
         <itunes:keywords>
           Nodejs,Startups,SKGtech,
         </itunes:keywords>
-        <itunes:image href="http://devastation.tv/img/thess.jpg"/>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     
