@@ -29,7 +29,7 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <image>
       <link>{{ site.url}}</link>
-      <url>{{ site.url }}{{ site.squareLogo}}</url>
+      <url>{{ site.url }}/img/itunes.jpg</url>
       <title>{{ site.name }}</title>
     </image>
     <itunes:explicit>No</itunes:explicit>
@@ -41,7 +41,7 @@
       <itunes:name>{{ site.managerName}}</itunes:name>
       <itunes:email>{{ site.managerEmail}}</itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.url }}{{ site.squareLogo}}"/>
+    <itunes:image href="{{ site.url }}/img/itunes.jpg"/>
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
@@ -75,7 +75,7 @@
         <itunes:keywords>
           {% for tag in post.tags %}{{ tag }},{% endfor %}
         </itunes:keywords>
-        <itunes:image href="{% if post.image %}{{ site.url }}{{ post.image }}{% else %}{{ site.url }}{{site.squareLogo}}{% endif %}"/>
+        <itunes:image href="{% if post.image %}{{ site.url }}{{ post.image }}{% else %}{{ site.url }}/img/itunes.jpg{% endif %}"/>
         <itunes:explicit>no</itunes:explicit>
       </item>
     {% endfor %}
