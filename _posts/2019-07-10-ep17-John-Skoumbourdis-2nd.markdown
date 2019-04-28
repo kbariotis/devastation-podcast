@@ -30,7 +30,7 @@ summary: "Σε αυτό το επεισόδιο είναι μαζί μου ο Γ
 * <a href="https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)" target="_blank">Top 10-2017 A7-Cross-Site Scripting (XSS)</a>
 * <a href="https://www.wired.com/story/github-ddos-memcached/" target="_blank">GitHub DDoS attacked</a>
 * <a href="https://www.cloudflare.com/learning/what-is-cloudflare/" target="_blank">What is Cloudflare</a>
-* <a href="https://uk.reuters.com/article/uk-volkswagen-emissions-sentencing/vw-engineer-sentenced-to-40-month-prison-term-in-diesel-case-idUKKCN1B522K" target="_blank">VW engineer sentenced to 40-month prison term in diesel case</a>
+* <a href="https://www.theverge.com/2015/10/8/9481651/volkswagen-congressional-hearing-diesel-scandal-fault" target="_blank">Volkswagen America's CEO blames software engineers for emissions cheating scandal</a>
 
 <br/>
 <br/>
