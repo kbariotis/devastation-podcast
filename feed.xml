@@ -19,8 +19,8 @@
     <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
     <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Sun, 10 Mar 2019 18:27:17 GMT</pubDate>
-    <lastBuildDate>Sun, 10 Mar 2019 18:27:17 GMT</lastBuildDate>
+    <pubDate>Mon, 06 May 2019 10:53:10 GMT</pubDate>
+    <lastBuildDate>Mon, 06 May 2019 10:53:10 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -45,6 +45,69 @@
     </itunes:category>
     
       <item>
+        <title><![CDATA[Επ. 16 - Γιάννης Σκουμπουρδής - Security - Μέρος 1ο]]></title>
+        <link>http://devastation.tv/2019/05/06/ep16-John-Skoumbourdis/</link>
+        <pubDate>Mon, 06 May 2019 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">http://devastation.tv/2019/05/06/ep16-John-Skoumbourdis/</guid>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/016-skoumbourdis-security.mp3" length="39411168" type="audio/mpeg"/>
+        <itunes:author>Kostas Bariotis</itunes:author>
+				<dc:creator>Kostas Bariotis</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            <p>Σε αυτο το επεισόδιο είναι μαζί μου ο Γιάννης Σκουμπουρδής και μου εξηγεί γνωστές επιθέσεις προς
+τα συστήματα μας. Μιλάμε για συνηθισμένα λάθη που κάνουμε τα οποία επιτρέπουν τέτοιες επιθέσεις
+και πως τα αντιμετωπίζουμε.</p>
+
+<p>Στο πρώτο επεισόδιο με τον Γιάννη, μιλάμε για επιθέσεις DoS και DDoS και XSS στο backend.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/016-skoumbourdis-security.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://www.web-and-development.com/john-skoumbourdis" target="_blank">John&#39;s homepage</a></li>
+<li><a href="https://twitter.com/scoumbourdis" target="_blank">John @ Twitter</a></li>
+<li><a href="https://www.grocerycrud.com/" target="_blank">Grocery CRUD</a></li>
+<li><a href="https://www.web-and-development.com/searching-a-programming-job-with-no-experience/" target="_blank">John&#39;s video - Searching a programming job with no experience?</a></li>
+<li><a href="https://www.owasp.org" target="_blank">OWASP</a></li>
+<li><a href="https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)" target="_blank">Top 10-2017 A7-Cross-Site Scripting (XSS)</a></li>
+<li><a href="https://www.wired.com/story/github-ddos-memcached/" target="_blank">GitHub DDoS attacked</a></li>
+<li><a href="https://www.cloudflare.com/learning/what-is-cloudflare/" target="_blank">What is Cloudflare</a></li>
+<li><a href="https://uk.reuters.com/article/uk-volkswagen-emissions-sentencing/vw-engineer-sentenced-to-40-month-prison-term-in-diesel-case-idUKKCN1B522K" target="_blank">VW engineer sentenced to 40-month prison term in diesel case</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το δέκατο έκτο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+
+        ]]>
+        </content:encoded>
+				<description>
+					Σε αυτο το επεισόδιο είναι μαζί μου ο Γιάννης Σκουμπουρδής και μου εξηγεί γνωστές επιθέσεις προς τα συστήματα μας. Μιλάμε για συνηθiσμένα λάθη που κάνουμε τα οποία επιτρέπουν τέτοιες επιθέσεις και πως τα αντιμετωπίζουμε.
+				</description>
+				<itunes:subtitle>
+					Σε αυτο το επεισόδιο είναι μαζί μου ο Γιάννης Σκουμπουρδής και μου εξηγεί γνωστές επιθέσεις προς τα συστήματα μας. Μιλάμε για συνηθiσμένα λάθη που κάνουμε τα οποία επιτρέπουν τέτοιες επιθέσεις και πως τα αντιμετωπίζουμε.
+				</itunes:subtitle>
+				<itunes:summary>
+					Σε αυτο το επεισόδιο είναι μαζί μου ο Γιάννης Σκουμπουρδής και μου εξηγεί γνωστές επιθέσεις προς τα συστήματα μας. Μιλάμε για συνηθiσμένα λάθη που κάνουμε τα οποία επιτρέπουν τέτοιες επιθέσεις και πως τα αντιμετωπίζουμε.
+				</itunes:summary>
+        <itunes:duration>35:27</itunes:duration>
+				
+				<category><![CDATA[Security]]></category>
+				
+				<category><![CDATA[XSS]]></category>
+				
+				<category><![CDATA[DDoS]]></category>
+				
+        <itunes:keywords>
+          Security,XSS,DDoS,
+        </itunes:keywords>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
         <title><![CDATA[Επ. 15 - Κώστας Καρασάββας - Blockchain]]></title>
         <link>http://devastation.tv/2019/03/10/ep15-Kostas-Karasavvas/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 GMT</pubDate>
@@ -56,9 +119,9 @@
         <![CDATA[
             <p>Το θέμα που απασχόλησε αρκετά τα τελευταία δύο χρόνια. Ακούσαμε όλοι για το Bitcoin και κάναμε μια αναζήτηση που μας οδήγησε στο blockchain. Τι είναι όμως το blockchain;</p>
 
-<p>Σε αυτο το επεισόδιο είναι μαζί μου ο Κώστας Καρασάββας, blockchain consultant και λέκτορας στο πανεπιστήμιο της Λευκωσίας όπου και διδάσκει για το blockchain.</p>
+<p>Σε αυτό το επεισόδιο είναι μαζί μου ο Κώστας Καρασάββας, blockchain consultant και λέκτορας στο πανεπιστήμιο της Λευκωσίας όπου και διδάσκει για το blockchain.</p>
 
-<p>Συζητάμε για την ιστορία του και την σχέση του με το Bitcoin, ποια είναι τα βασικά χαρακτηριστηκα του και γιατι διαφέρει. Πώς μπορει κάποιος να ξεκινήσει για να μπει στο πεδιο των του blockchain αλλα και την κρυπτογραφίας και πως θα μοιάζει ο κόσμος μας σε λίγα χρόνια.</p>
+<p>Συζητάμε για την ιστορία του και την σχέση του με το Bitcoin, ποια είναι τα βασικά χαρακτηριστηκα του και γιατι διαφέρει. Πώς μπορει κάποιος να ξεκινήσει για να μπει στο πεδίο του blockchain αλλά και την κρυπτογραφίας και πως θα μοιάζει ο κόσμος μας σε λίγα χρόνια.</p>
 
 <p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/015-karasavvas-blockchain.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
 
