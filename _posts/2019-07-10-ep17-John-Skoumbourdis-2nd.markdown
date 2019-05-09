@@ -1,6 +1,6 @@
 ---
 layout: post_audio
-og_image: ep15.jpg
+og_image: ep16.jpg
 title:  "Επ. 17 - Γιάννης Σκουμπουρδής - Security - Μέρος 2ο"
 date: 2019-07-10
 tags:

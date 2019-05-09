@@ -1,6 +1,6 @@
 ---
 layout: post_audio
-og_image: ep15.jpg
+og_image: ep16.jpg
 title:  "Επ. 16 - Γιάννης Σκουμπουρδής - Security - Μέρος 1ο"
 date: 2019-05-06
 tags:
