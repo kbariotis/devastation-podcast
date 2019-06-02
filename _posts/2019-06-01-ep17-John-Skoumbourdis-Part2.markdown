@@ -2,7 +2,7 @@
 layout: post_audio
 og_image: ep16.jpg
 title:  "Επ. 17 - Γιάννης Σκουμπουρδής - Security - Μέρος 2ο"
-date: 2019-07-10
+date: 2019-06-01
 tags:
 - Security
 - XSS
@@ -10,18 +10,15 @@ tags:
 audio: https://s3-eu-west-1.amazonaws.com/devastation-podcast/017-skoumbourdis-security-2.mp3
 podcastLength: "31:04"
 length: 33506208
-summary: "Σε αυτό το επεισόδιο είναι μαζί μου ο Γιάννης Σκουμπουρδής και μου εξηγεί γνωστές επιθέσεις προς τα συστήματα μας. Μιλάμε για συνηθησμένα λάθη που κάνουμε τα οποία επιτρέπουν τέτοιες επιθέσεις και πως τα αντιμετωπίζουμε."
+summary: "Στο δεύτερο επεισόδιο με τον Γιάννη συνεχίζουμε την κουβέντας μας για το backend και συνεχίζουμε με frontend. Επίσης, τι πρέπει να κάνουμε όταν ανακαλύψουμε ενα vulnerability σε κάποιο άλλο σύστημα."
 ---
-Σε αυτό το επεισόδιο είναι μαζί μου ο Γιάννης Σκουμπουρδής και μου εξηγεί γνωστές επιθέσεις προς
-τα συστήματα μας. Μιλάμε για συνηθησμένα λάθη που κάνουμε τα οποία επιτρέπουν τέτοιες επιθέσεις
-και πως τα αντιμετωπίζουμε.
-
 Στο δεύτερο επεισόδιο με τον Γιάννη συνεχίζουμε την κουβέντας μας για το backend και συνεχίζουμε με frontend. Επίσης, τι πρέπει να κάνουμε όταν ανακαλύψουμε ενα vulnerability σε κάποιο άλλο σύστημα.
 
 <a href="{{page.audio}}" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a>
 
 Σύνδεσμοι:
 
+* <a href="https://devastation.tv/2019/05/06/ep16-John-Skoumbourdis/" target="_blank">Μέρος 1ο</a>
 * <a href="https://www.web-and-development.com/john-skoumbourdis" target="_blank">John's homepage</a>
 * <a href="https://twitter.com/scoumbourdis" target="_blank">John @ Twitter</a>
 * <a href="https://www.grocerycrud.com/" target="_blank">Grocery CRUD</a>
