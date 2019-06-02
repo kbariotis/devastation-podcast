@@ -19,8 +19,8 @@
     <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
     <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Thu, 09 May 2019 22:14:44 GMT</pubDate>
-    <lastBuildDate>Thu, 09 May 2019 22:14:44 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Jun 2019 20:55:48 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Jun 2019 20:55:48 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -43,6 +43,66 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    
+      <item>
+        <title><![CDATA[Επ. 17 - Γιάννης Σκουμπουρδής - Security - Μέρος 2ο]]></title>
+        <link>http://devastation.tv/2019/06/01/ep17-John-Skoumbourdis-Part2/</link>
+        <pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate>
+        <guid isPermaLink="true">http://devastation.tv/2019/06/01/ep17-John-Skoumbourdis-Part2/</guid>
+        <enclosure url="https://s3-eu-west-1.amazonaws.com/devastation-podcast/017-skoumbourdis-security-2.mp3" length="33506208" type="audio/mpeg"/>
+        <itunes:author>Kostas Bariotis</itunes:author>
+				<dc:creator>Kostas Bariotis</dc:creator>
+        <content:encoded>
+        <![CDATA[
+            <p>Στο δεύτερο επεισόδιο με τον Γιάννη συνεχίζουμε την κουβέντας μας για το backend και συνεχίζουμε με frontend. Επίσης, τι πρέπει να κάνουμε όταν ανακαλύψουμε ενα vulnerability σε κάποιο άλλο σύστημα.</p>
+
+<p><a href="https://s3-eu-west-1.amazonaws.com/devastation-podcast/017-skoumbourdis-security-2.mp3" target="_blank"><i class="fa fa-cloud-download"></i> Κατέβασε το στον υπολογιστή σου</a></p>
+
+<p>Σύνδεσμοι:</p>
+
+<ul>
+<li><a href="https://devastation.tv/2019/05/06/ep16-John-Skoumbourdis/" target="_blank">Μέρος 1ο</a></li>
+<li><a href="https://www.web-and-development.com/john-skoumbourdis" target="_blank">John&#39;s homepage</a></li>
+<li><a href="https://twitter.com/scoumbourdis" target="_blank">John @ Twitter</a></li>
+<li><a href="https://www.grocerycrud.com/" target="_blank">Grocery CRUD</a></li>
+<li><a href="https://www.web-and-development.com/searching-a-programming-job-with-no-experience/" target="_blank">John&#39;s video - Searching a programming job with no experience?</a></li>
+<li><a href="https://www.owasp.org" target="_blank">OWASP</a></li>
+<li><a href="https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)" target="_blank">Top 10-2017 A7-Cross-Site Scripting (XSS)</a></li>
+<li><a href="https://www.wired.com/story/github-ddos-memcached/" target="_blank">GitHub DDoS attacked</a></li>
+<li><a href="https://www.cloudflare.com/learning/what-is-cloudflare/" target="_blank">What is Cloudflare</a></li>
+<li><a href="https://www.theverge.com/2015/10/8/9481651/volkswagen-congressional-hearing-diesel-scandal-fault" target="_blank">Volkswagen America&#39;s CEO blames software engineers for emissions cheating scandal</a></li>
+</ul>
+
+<p><br/>
+<br/>
+<strong>Θα χαιρόμουν πολύ εαν μοιραζόσασταν το δέκατο έβδομο επεισόδιο του Devastation
+Podcast με κάποιο φίλο σας ή αν αφήνατε ένα σχόλιο.</strong> 😃</p>
+
+        ]]>
+        </content:encoded>
+				<description>
+					Στο δεύτερο επεισόδιο με τον Γιάννη συνεχίζουμε την κουβέντας μας για το backend και συνεχίζουμε με frontend. Επίσης, τι πρέπει να κάνουμε όταν ανακαλύψουμε ενα vulnerability σε κάποιο άλλο σύστημα.
+				</description>
+				<itunes:subtitle>
+					Στο δεύτερο επεισόδιο με τον Γιάννη συνεχίζουμε την κουβέντας μας για το backend και συνεχίζουμε με frontend. Επίσης, τι πρέπει να κάνουμε όταν ανακαλύψουμε ενα vulnerability σε κάποιο άλλο σύστημα.
+				</itunes:subtitle>
+				<itunes:summary>
+					Στο δεύτερο επεισόδιο με τον Γιάννη συνεχίζουμε την κουβέντας μας για το backend και συνεχίζουμε με frontend. Επίσης, τι πρέπει να κάνουμε όταν ανακαλύψουμε ενα vulnerability σε κάποιο άλλο σύστημα.
+				</itunes:summary>
+        <itunes:duration>31:04</itunes:duration>
+				
+				<category><![CDATA[Security]]></category>
+				
+				<category><![CDATA[XSS]]></category>
+				
+				<category><![CDATA[DDoS]]></category>
+				
+        <itunes:keywords>
+          Security,XSS,DDoS,
+        </itunes:keywords>
+        <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
     
       <item>
         <title><![CDATA[Επ. 16 - Γιάννης Σκουμπουρδής - Security - Μέρος 1ο]]></title>
