@@ -20,11 +20,14 @@ summary: "Σε αυτο το επεισόδιο φιλοξενώ την Αθαν
 
 Σύνδεσμοι:
 
-* <a href="https://www.framer.com/" target="_blank">Framer X</a>
 * <a href="https://twitter.com/sla1" target="_blank">Athanasia on Twitter</a>
-* <a href="https://www.youtube.com/channel/UC3kUSgoGfzc9y1EcSy4nH1A" target="_blank">Athanasis on YouTube</a>
-* <a href="https://devastation.tv/2016/11/15/ep9-Nikos-Zinas/" target="_blank">Επ. 9 - Νίκος Ζηνάς - Styleguides Driven Development</a>
+* <a href="https://www.youtube.com/channel/UC3kUSgoGfzc9y1EcSy4nH1A" target="_blank">Athanasia on YouTube</a>
+* <a href="https://www.framer.com/" target="_blank">Framer X</a>
+* <a href="https://store.framer.com/package/mapbox/mapbox" target="_blank">Mapbox component - Framer Store</a>
+* <a href="https://store.framer.com/package/gusso/magic-move" target="_blank">Magic move - Framer Store</a>
+* <a href="https://store.framer.com/package/gavin-owens/lottie-animations" target="_blank">Lottie Animations - Framer Store</a>
 * <a href="https://airbnb.design/introducing-lottie/" target="_blank">Lottie</a>
+* <a href="https://devastation.tv/2016/11/15/ep9-Nikos-Zinas/" target="_blank">Επ. 9 - Νίκος Ζηνάς - Styleguides Driven Development</a>
 
 <br/>
 <br/>
