@@ -2,7 +2,7 @@
 layout: post_audio
 og_image: ep18.jpg
 title:  "Επ. 18 - Αθανασία Λυκούδη - Framer X"
-date: 2019-08-01
+date: 2019-07-06
 tags:
 - Design
 - Prototype
