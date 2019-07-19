@@ -16,11 +16,11 @@
     <description>Devastation Podcast - Το Podcast για Developers</description>
     <link>http://devastation.tv</link>
     <language>el-gr</language>
-    <managingEditor>info@devastation.tv (Kostas Bariotis)</managingEditor>
-    <webMaster>info@devastation.tv (Kostas Bariotis)</webMaster>
+    <managingEditor>info@devastation.tv</managingEditor>
+    <webMaster>info@devastation.tv</webMaster>
     <copyright>2016 Devastation Podcast</copyright>
-    <pubDate>Sun, 07 Jul 2019 21:07:29 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Jul 2019 21:07:29 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2019 16:25:45 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2019 16:25:45 GMT</lastBuildDate>
     <rawvoice:location>Thessaloniki, Greece</rawvoice:location>
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -37,7 +37,7 @@
     <itunes:keywords>Programming, Startups, SKGtech, Greece</itunes:keywords>
     <itunes:owner>
       <itunes:name>Kostas Bariotis</itunes:name>
-      <itunes:email>info@devastation.tv (Kostas Bariotis)</itunes:email>
+      <itunes:email>info@devastation.tv</itunes:email>
     </itunes:owner>
     <itunes:image href="http://devastation.tv/img/itunes.jpg"/>
     <itunes:category text="Technology">
